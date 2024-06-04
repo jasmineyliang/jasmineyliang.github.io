@@ -17,9 +17,9 @@ const CONFIG = {
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
-        limit: 12, // How many projects to display.
+        limit: 20, // How many projects to display.
         exclude: {
-          forks: false, // Forked projects will not be displayed if set to true.
+          forks: true, // Forked projects will not be displayed if set to true.
           projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
@@ -57,9 +57,9 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'jypliang',
+    twitter: '',
+    mastodon: '',
     researchGate: '',
     facebook: '',
     instagram: '',
@@ -69,49 +69,42 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: 'https://jasmineyliang.github.io',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'yupinl@umich.com',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
+    'Python',
+    'Java',
+    'MATLAB',
     'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
+    'HTML',
     'CSS',
-    'Antd',
-    'Tailwind',
+    'MySQL',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Iowa State University',
+      position: 'Graduate Researcher in Machine Learning',
+      from: 'September 2019',
       to: 'Present',
-      companyLink: 'https://example.com',
+      // companyLink: 'www.iastate.edu',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'National Olympics Center, Taiwan',
+      position: 'Data Analytics',
+      from: 'January 2018',
+      to: 'August 2019',
+      // companyLink: 'https://example.com',
     },
   ],
   certifications: [
@@ -125,7 +118,7 @@ const CONFIG = {
   educations: [
     {
       institution: 'Iowa State University',
-      degree: 'PhD',
+      degree: 'PhD in Computer Science and Biomechanics',
       from: '2019',
       to: '2024',
     },
@@ -140,20 +133,20 @@ const CONFIG = {
     {
       title: 'Striding into Clarity: Wearable Sensor-Driven Estimation of Knee Adduction Moment, Unveiling the Black Box with Sequence-Based Neural Networks and Explainable Artificial Intelligence',
       conferenceName: 'AAAI 2024 SSS on Clinical FMs',
-      journalName: 'Journal Name',
-      authors: 'JJasmine Y. Liang, Hongyi Bian, Wensheng Zhang, Carl K. Chang, Li-Shan Chou',
+      // journalName: 'Journal Name',
+      authors: 'Jasmine Y. Liang, Hongyi Bian, Wensheng Zhang, Carl K. Chang, Li-Shan Chou',
       link: 'https://openreview.net/pdf?id=lWsDWnre2l',
       description:
         'Our study, leveraging wearable sensors and advanced AI/ML algorithms, accurately predicts knee adduction moment outcomes, with attention weight trends, advanced clinical practice in knee osteoarthritis management.',
     },
     {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
-      journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      title: 'Assessment of Gait Balance Control Using Inertial Measurement Units — A Narrative Review',
+      // conferenceName: 'Conference Name',
+      journalName: 'World Scientific Annual Review of Biomechanics',
+      authors: 'Jasmine Y. Liang, Li-Shan Chou',
+      link: 'https://www.worldscientific.com/doi/abs/10.1142/S2810958923300068',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'This narrative review examines the use of inertial measurement units (IMUs) for assessing gait balance control.',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
