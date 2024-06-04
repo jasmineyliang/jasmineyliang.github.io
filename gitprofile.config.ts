@@ -124,27 +124,27 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Iowa State University',
+      degree: 'PhD',
+      from: '2019',
+      to: '2024',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'University of Michigan',
+      degree: 'DPT in Biomechanics and Medical Image',
+      from: '2021',
+      to: '2017',
     },
   ],
   publications: [
     {
-      title: 'Publication Title',
-      conferenceName: '',
+      title: 'Striding into Clarity: Wearable Sensor-Driven Estimation of Knee Adduction Moment, Unveiling the Black Box with Sequence-Based Neural Networks and Explainable Artificial Intelligence',
+      conferenceName: 'AAAI 2024 SSS on Clinical FMs',
       journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      authors: 'JJasmine Y. Liang, Hongyi Bian, Wensheng Zhang, Carl K. Chang, Li-Shan Chou',
+      link: 'https://openreview.net/pdf?id=lWsDWnre2l',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'Our study, leveraging wearable sensors and advanced AI/ML algorithms, accurately predicts knee adduction moment outcomes, with attention weight trends, advanced clinical practice in knee osteoarthritis management.',
     },
     {
       title: 'Publication Title',
@@ -240,7 +240,7 @@ const CONFIG = {
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
 
-  enablePWA: true,
+  enablePWA: false,
 };
 
 export default CONFIG;
