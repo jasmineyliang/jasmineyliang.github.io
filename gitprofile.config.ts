@@ -144,7 +144,7 @@ const CONFIG = {
       // conferenceName: 'Conference Name',
       journalName: 'World Scientific Annual Review of Biomechanics',
       authors: 'Jasmine Y. Liang, Li-Shan Chou',
-      link: 'https://www.worldscientific.com/doi/abs/10.1142/S2810958923300068',
+      link: 'https://www.worldscientific.com/doi/epdf/10.1142/S2810958923300068',
       description:
         'This narrative review examines the use of inertial measurement units (IMUs) for assessing gait balance control.',
     },
