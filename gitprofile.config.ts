@@ -110,10 +110,7 @@ const CONFIG = {
   certifications: [
     {
       name: 'Stanford University - Machine Learning ',
-      body: 'NumPy & scikit-learn: Build and train supervised models for prediction and binary classification, such as linear and logistic regression."
-             + 'TensorFlow: Construct and train neural networks for multi-class classification. Implement decision trees and ensemble methods. '
-        + 'Apply ML development and unsupervised learning techniques, e.g. clustering and anomaly detection.' 
-        + 'Recommender Systems: Develop systems using collaborative filtering, content-based deep learning, and deep reinforcement learning models.',
+      body: 'NumPy & scikit-learn: Build and train supervised models for prediction and binary classification, such as linear and logistic regression.\nTensorFlow: Construct and train neural networks for multi-class classification. Implement decision trees and ensemble methods.\nApply ML development and unsupervised learning techniques, e.g. clustering and anomaly detection.\nRecommender Systems: Develop systems using collaborative filtering, content-based deep learning, and deep reinforcement learning models.',
       year: '2024',
       link: 'https://www.linkedin.com/in/jypliang/details/certifications/1718230005331/single-media-viewer/?profileId=ACoAADgFQNQB1HOjJMI8bN1EdeEX-tbbWl4mEoI',
     },
