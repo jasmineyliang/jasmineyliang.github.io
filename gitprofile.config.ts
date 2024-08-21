@@ -76,11 +76,11 @@ const CONFIG = {
     telegram: '',
     website: 'https://jasmineyliang.github.io',
     phone: '',
-    email: 'yupinl@umich.com',
+    email: 'jasmineyliang@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/jasmineyliang/EDO/blob/main/Liang_PhD_Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
