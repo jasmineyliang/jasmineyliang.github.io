@@ -84,12 +84,13 @@ const CONFIG = {
   },
   skills: [
     'Python',
+    'PyTorch',
+    'TensorFlow',
     'Java',
     'MATLAB',
     'MySQL',
     'HTML',
     'CSS',
-    'MySQL',
   ],
   experiences: [
     {
