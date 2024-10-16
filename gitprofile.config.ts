@@ -100,13 +100,6 @@ const CONFIG = {
       to: 'Present',
       // companyLink: 'www.iastate.edu',
     },
-    {
-      company: 'National Olympics Center, Taiwan',
-      position: 'Data Analytics',
-      from: 'January 2018',
-      to: 'August 2019',
-      // companyLink: 'https://example.com',
-    },
   ],
   certifications: [
     {
@@ -125,7 +118,7 @@ const CONFIG = {
     },
     {
       institution: 'University of Michigan',
-      degree: 'DPT in Biomechanics and Medical Image',
+      degree: 'DPT, concentration in Medical Image and Clinical Diagnosis',
       from: '2021',
       to: '2017',
     },
