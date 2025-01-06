@@ -21,15 +21,7 @@
    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
    <![endif]-->
 </head>
-<nav>
-   <ul>
-      <li><a href="#home">Home</a></li>
-      <li><a href="#Bio">About</a></li>
-      <li><a href="#Projects">Projects</a></li>
-      <li><a href="#Publication">Projects</a></li>
-      <li><a href="#Contact">Contact</a></li>
-   </ul>
-</nav>
+
 <body>
    <div class="wrapper">
       <header>
@@ -38,6 +30,7 @@
          <img src="{{site.logo | relative_url}}" alt="Logo" style="max-width: 200px; height: auto;"/>
          {% endif %}
          <p>{{ site.description | default: site.github.project_tagline }}</p>
+         
          {% if site.github.is_project_page %}
          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
          {% endif %}
@@ -51,6 +44,15 @@
             <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
          </ul>
          {% endif %}
+         <nav>
+            <ul>
+               <li><a href="#home">Home</a></li>
+               <li><a href="#Bio">About</a></li>
+               <li><a href="#Projects">Projects</a></li>
+               <li><a href="#Publication">Projects</a></li>
+               <li><a href="#Contact">Contact</a></li>
+            </ul>
+         </nav>
       </header>
       <section>
          {{ content }}
