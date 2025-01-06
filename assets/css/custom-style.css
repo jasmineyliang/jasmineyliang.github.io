@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+/* @import "{{ site.theme }}"; */
 
 /* Sticky Navigation Bar */
 header nav {
