@@ -2,7 +2,9 @@
 ---
 
 /* @import "{{ site.theme }}"; */
-
+body {
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+}
 /* Sticky Navigation Bar */
 section nav {
    position: sticky;
