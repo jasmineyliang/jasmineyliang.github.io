@@ -29,6 +29,9 @@ section nav ul li a {
    color: #000; /* Navigation link color */
    text-decoration: none;
    font-weight: normal;
+   font-size: 16px; /* Adjust font size here */
+   padding: 10px 15px;
+   display: block;
 }
 
 section nav ul li a:hover,
