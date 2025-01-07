@@ -33,6 +33,6 @@ section nav ul li a {
 
 section nav ul li a:hover,
 section nav ul li a:focus {
-   color: #333; /* Hover color */
+   color: #267CB9; /* Hover color */
    font-weight: normal;
 }
