@@ -4,7 +4,7 @@
 /* @import "{{ site.theme }}"; */
 
 /* Sticky Navigation Bar */
-header nav {
+section nav {
    position: sticky;
    top: 0; /* Stick to the top of the page */
    background-color: #fff; /* Change this to whatever background color you prefer */
