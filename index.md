@@ -1,5 +1,4 @@
 ---
-
 ## Selected Projects Driving Real-World Impact
 
 #### Project 1 Title
