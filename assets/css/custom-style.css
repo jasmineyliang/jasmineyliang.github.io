@@ -26,10 +26,10 @@ section nav ul li {
 }
 
 section nav ul li a {
-   color: #000; /* Navigation link color */
+   color: ##675C5C; /* Navigation link color */
    text-decoration: none;
    font-weight: normal;
-   font-size: 16px; /* Adjust font size here */
+   font-size: 11px; /* Adjust font size here */
    padding: 10px 15px;
    display: block;
 }
