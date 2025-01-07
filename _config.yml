@@ -9,7 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Known for contributions to integrate AI and IMUs to understand motion.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/jypliang/"> LinkedIn </a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
