@@ -34,5 +34,5 @@ section nav ul li a {
 section nav ul li a:hover,
 section nav ul li a:focus {
    color: #333; /* Hover color */
-   font-weight: bold;
+   font-weight: normal;
 }
