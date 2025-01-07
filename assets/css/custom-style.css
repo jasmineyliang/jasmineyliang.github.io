@@ -13,7 +13,7 @@ header nav {
    padding: 10px 0;
 }
 
-header nav ul {
+section nav ul {
    display: flex;
    justify-content: space-around;
    list-style: none;
@@ -21,18 +21,18 @@ header nav ul {
    padding: 0;
 }
 
-header nav ul li {
+section nav ul li {
    margin: 0;
 }
 
-header nav ul li a {
+section nav ul li a {
    color: #267CB9; /* Navigation link color */
    text-decoration: none;
    font-weight: bold;
 }
 
-header nav ul li a:hover,
-header nav ul li a:focus {
+section nav ul li a:hover,
+section nav ul li a:focus {
    color: #069; /* Hover color */
    font-weight: bold;
 }
