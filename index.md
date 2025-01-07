@@ -1,7 +1,7 @@
 
 ---
 
-### Category Name 1 
+### Projects Driving Real-World Impact
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -16,7 +16,17 @@
 
 ---
 
-### Category Name 2
+### Technical Mastery and Problem Solving
+
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
+
+---
+
+### Innovative Research and Insights
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
