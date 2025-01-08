@@ -3,13 +3,12 @@
 
 ## Selected Projects Driving Real-World Impact
 
-### Project 1 Title
+### Fine Tune LLM
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [View code](/sample_page)
 
-### Project 2 Title
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Context-aware ChatPDF
 
 [View code](/pdf/sample_presentation.pdf)
 
