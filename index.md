@@ -199,23 +199,45 @@ Developed a Java application integrated with SQL to analyze state legislators' t
 ---
 <a id="research"></a>
 <br />
-### Innovative Research and Insights
-#### AI and Adversarial Example
-- Machine Learning with Membership Privacy using Adversarial Regularization [![](https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000)](https://github.com/jasmineyliang/ai-and-adversarial-example-proj/blob/main/first-presentation-of-ai-adversial-example.pdf)
-- Comprehensive Privacy Analysis of Deep Learning:Passive and Active White-box Inference Attacksagainst Centralized and Federated Learning [![](https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000)](https://github.com/jasmineyliang/ai-and-adversarial-example-proj/blob/main/second-presentation-of-ai-adversial-example.pdf)
-- Adversarial Example in Biomech Research [![](https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000)](https://github.com/jasmineyliang/ai-and-adversarial-example-proj/blob/main/final-project-presentation.pdf)
+## Innovative Research and Insights
+### AI and Adversarial Example
+- Machine Learning with Membership Privacy using Adversarial Regularization
+  
+  [![](https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000)](https://github.com/jasmineyliang/ai-and-adversarial-example-proj/blob/main/first-presentation-of-ai-adversial-example.pdf)
+- Comprehensive Privacy Analysis of Deep Learning:Passive and Active White-box Inference Attacksagainst Centralized and Federated Learning
 
-#### AI and Healthcare
-- Cloud Computing in Healthcare and Privacy [![](https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000)](https://github.com/jasmineyliang/cloud-computing-in-healthcare-and-privacy-survey-proj/blob/main/term-project-presentation.pdf)
-- Classify individual with Overweight by IMUs Signals [![](https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000)](https://github.com/jasmineyliang/ml-imu-termproj/blob/main/ml-imu-termproj-presentation.pdf)
-- Situation Awareness in Falling Prediction and Prevention [![](https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000)](https://github.com/jasmineyliang/situation-awareness-in-falling-prediction-and-prevention/blob/main/COMS610_final%20report.pdf)
-- AI Survey Over Applications of Patient with Stroke [![](https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000)](https://github.com/jasmineyliang/AI-survey-over-applications-of-patient-stroke)
+  [![](https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000)](https://github.com/jasmineyliang/ai-and-adversarial-example-proj/blob/main/second-presentation-of-ai-adversial-example.pdf)
+- Adversarial Example in Biomech Research
 
+  [![](https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000)](https://github.com/jasmineyliang/ai-and-adversarial-example-proj/blob/main/final-project-presentation.pdf)
 
+### AI and Healthcare
+- Cloud Computing in Healthcare and Privacy
 
+  [![](https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000)](https://github.com/jasmineyliang/cloud-computing-in-healthcare-and-privacy-survey-proj/blob/main/term-project-presentation.pdf)
+- Classify individual with Overweight by IMUs Signals
 
+  [![](https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000)](https://github.com/jasmineyliang/ml-imu-termproj/blob/main/ml-imu-termproj-presentation.pdf)
+- Situation Awareness in Falling Prediction and Prevention
+
+  [![](https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000)](https://github.com/jasmineyliang/situation-awareness-in-falling-prediction-and-prevention/blob/main/COMS610_final%20report.pdf)
+- AI Survey Over Applications of Patient with Stroke
+
+  [![](https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000)](https://github.com/jasmineyliang/AI-survey-over-applications-of-patient-stroke)
+
+### Algorithm and Computational Theory
+- Advanced Algorithm
+  
+  [![](https://img.shields.io/badge/View_Work-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/advanced-algorithms)
+- Theory of Computation
+  
+  [![](https://img.shields.io/badge/View_Work-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/theory-of-computation)
+- Advanced Computation (class content is not allowed to upload)
+
+  Turing Machine (TM) and Prove Computability, Decidability, Countability, Slice and Paramertized of Languages, Enumeration, Universal TM, Prefix TM, Classes and Subset, Quantum Computing
+  
 ---
-### Theory
+
 
 
 
