@@ -2,7 +2,7 @@
 ---
 
 ## Selected Projects Driving Real-World Impact
-
+<a id="Impact"></a>
 ### Fine Tune LLM
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -97,6 +97,7 @@ Developed a Java application integrated with SQL to analyze state legislators' t
 
 ---
 ## Technical Mastery and Problem Solving
+<a id="skill"></a>
 ### Machine Learning 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 [![](https://img.shields.io/badge/javascript-white?logo=javascript&logoColor=%23F7DF1E)](#) 
@@ -196,6 +197,7 @@ Developed a Java application integrated with SQL to analyze state legislators' t
 ---
 
 ### Innovative Research and Insights
+<a id="research"></a>
 #### AI and Adversarial Example
 - Machine Learning with Membership Privacy using Adversarial Regularization [![](https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000)](https://github.com/jasmineyliang/ai-and-adversarial-example-proj/blob/main/first-presentation-of-ai-adversial-example.pdf)
 - Comprehensive Privacy Analysis of Deep Learning:Passive and Active White-box Inference Attacksagainst Centralized and Federated Learning [![](https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000)](https://github.com/jasmineyliang/ai-and-adversarial-example-proj/blob/main/second-presentation-of-ai-adversial-example.pdf)
