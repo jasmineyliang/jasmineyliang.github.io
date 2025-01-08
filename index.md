@@ -235,5 +235,53 @@ Developed a Java application integrated with SQL to analyze state legislators' t
 - Advanced Computation (class content is not allowed to upload)
 
   Turing Machine (TM) and Prove Computability, Decidability, Countability, Slice and Paramertized of Languages, Enumeration, Universal TM, Prefix TM, Classes and Subset, Quantum Computing
-  
+
+
 ---
+<a id="honor"></a>
+<br />
+## Honors and Awards 
+### Achievements
+- University Research Excellent 2024 [![](https://img.shields.io/badge/View_Certificate-white?logo=airplayvideo&logoColor=%23000000)](https://www.parchment.com/u/award/881e90a1ae5a20c2808687ba639a15f3)
+  
+  _"The purpose of this award is to recognize the top 10% of graduate students for outstanding research accomplishments as documented in their theses and dissertations."_ 
+- Aspiring Health Professionals Scholarship 2023
+- Print & Grace Powers Hudson Scholarship 2023
+- Student Travel Bursary at 9th World Congress of Biomechanics 2022
+- Biomechanics Student Award at 9th World Congress of Biomechanics 2022
+- Print & Grace Powers Hudson Scholarship 2022
+- Charlotte and Stanley Herren Graduate Fellowship 2019
+- Undergraduate Students Research Papers Published Awards 2019
+- Awarded National Funding for Undergraduate Student Research 2015
+- Undergraduate Research Project Presentation Award - Third Place 2015
+
+### Leadership and Services
+- Reviewer for AAAI Symposium 2024
+- Curriculum Developer for DH5160-Analytics AI Health Strategies [![](https://img.shields.io/badge/View_My_Classroom-white?logo=airplayvideo&logoColor=%23000000)](https://classroom.github.com/classrooms/171609019-analytics-ai-health-strategies-jl-classroom)
+- Instructor of Biomechanics Class [![](https://img.shields.io/badge/View_My_Classroom-white?logo=airplayvideo&logoColor=%23000000)](https://grader.mathworks.com/courses/109094)
+
+
+---
+<a id="paper"></a>
+<br />
+## Selective Papers
+[1] **JY Liang**, H Bian, W Zhang, CK Chang, LS Chou. (2024) Striding into Clarity: Wearable Sensor-Driven Estimation of Knee Adduction Moment, Unveiling the Black Box with Sequence-Based Neural Networks and Explainable Artificial Intelligence. AAAI 2024 Spring Symposium on Clinical Foundation Models 
+
+[![](https://img.shields.io/badge/Paper-white?)](https://openreview.net/pdf?id=lWsDWnre2l)
+
+[2] **JY Liang** & LS Chou. (2024) Center of mass acceleration during walking: comparison between IMU and camera-based motion capture methodologies. Wearable Technologies
+
+[![](https://img.shields.io/badge/Paper-white?)](https://www.cambridge.org/core/journals/wearable-technologies/article/center-of-mass-acceleration-during-walking-comparison-between-imu-and-camerabased-motion-capture-methodologies/EE637BCC2EE3335D02A3600F05FFBF28)
+
+[3] **JY Liang** & LS Chou. Estimation of Knee Adduction Moment During Walking Using Wearable Sensor Data With the Application of Sequence-based Artificial Recurrent Neural Network. IX World Congress of Biomechanics 2022 
+
+[![](https://img.shields.io/badge/Paper-white?)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SnALrRkAAAAJ&sortby=pubdate&citation_for_view=SnALrRkAAAAJ:Tyk-4Ss8FVUC)
+
+[4] **JY Liang** & LS Chou. (2023) Assessment of Gait Balance Control Using Inertial Measurement Units — A Narrative Review. World Scientific Annual Review of Biomechanics, 2330006
+
+[![](https://img.shields.io/badge/Paper-white?)](https://www.worldscientific.com/doi/abs/10.1142/S2810958923300068)
+
+[5] **JY Liang** , M Zhang, N Lamoureux, J Lansing, LS Chou, GJ Welk. (2023) Estimation of STEADI Performance Using Inertial Measurement Unit
+
+[![](https://img.shields.io/badge/Paper-white?)](https://www.sciencedirect.com/science/article/pii/S2950307824000286)
+
