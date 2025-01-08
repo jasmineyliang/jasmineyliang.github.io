@@ -6,14 +6,16 @@
 ### Fine Tune LLM
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[View code](/sample_page)
+[![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](http://example.com/) 
 
 ### Context-aware ChatPDF
 
-[View code](/pdf/sample_presentation.pdf)
+[![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](http://example.com/) 
 
-### Project 3 Title
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Multimodal AI Applications with LangChain & OpenAI API
+
+[![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](http://example.com/) 
+
 
 [View code](http://example.com/)
 
