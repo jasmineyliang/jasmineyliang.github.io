@@ -167,12 +167,31 @@ Developed a Java application integrated with SQL to analyze state legislators' t
 - Data Visualization: PCA, Dimension Reduction [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/gene-dimension-reduction-pca)
 - Network Inference Challenge, Area Under ROC curve (AUC), Bagging: Bootstrap, Data Processing Inequality [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/gene-network-inference)
 - Gene Ontology Experiment [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/gene-ontology)
--
 - DREAM Challenge, Precision and Recall (PR), Receiver Operating Characteristic (ROC), GENIES3, Boolean Network Model [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/gene-network-dynamics)
 
 
-### Object-Oriented Programming
-### Computer Vision
+### Object-Oriented Programming (OOP)
+[![](https://img.shields.io/badge/Java-white?logo=eclipseide&logoColor=%232C2255)](#)
+#### Games
+- Backpacker [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/OOP/tree/main/hw1)
+- Cave Explorer [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/OOP/tree/main/hw2)
+- Conway's Game of Life [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/OOP/tree/main/hw3)
+- Explosion Robot [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/OOP/tree/main/hw4)
+
+#### Mini Projects
+- Advanced Itteration Algorithm [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/OOP/tree/main/miniassignment1)
+- Advanced Strings Manipulation [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/OOP/tree/main/mini2)
+
+#### Real-World Application
+- Hello! World [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/OOP/tree/main/project1)
+- Atom & Basketball [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/OOP/tree/main/project2)
+- Rabbit Population Simulation [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/OOP/tree/main/project3)
+- Dounut Shop [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)]([https://github.com/jasmineyliang/gene-network-analysis](https://github.com/jasmineyliang/OOP/tree/main/project4))
+- Air Pumping [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/OOP/tree/main/project5)
+- The Runner [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/OOP/tree/main/project6)
+- Texas hold 'em [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/OOP/tree/main/project7)
+- Grader [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/OOP/tree/main/project8)
+- Sorting [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/OOP/tree/main/project10)
 
 ---
 
