@@ -23,12 +23,19 @@
 <img src="images/server1.png?raw=true" width="480"/>
 Developed anomaly detection algorithms to identify abnormal server behavior using throughput and latency metrics. Applied Gaussian models to visualize and detect anomalies in 2D datasets and extended the approach to high-dimensional data, achieving high detection accuracy through cross-validation. Optimized detection thresholds using precision-recall metrics, improving the accuracy of identifying true anomalies.
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Matlab-white?logo=wolframmathematica&logoColor=%23DD1100)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikitlearn&logoColor=%23F7931E
+)](#)
+
 [View code](https://github.com/jasmineyliang/AI-checker-proj)
 
 ### Recommendation Systems
 <img src="images/RS1.png?raw=true" width="480"/>
 <img src="images/RS2.png?raw=true" width="480"/>
 Developed and optimized collaborative filtering algorithms to predict movie ratings using a dataset of 1682 movies and 943 users. Implemented regularization techniques to improve model generalization and minimize overfitting. Enhanced user satisfaction by personalizing movie recommendations based on user preferences, improving engagement.
+
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Matlab-white?logo=wolframmathematica&logoColor=%23DD1100)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikitlearn&logoColor=%23F7931E
+)](#)
 
 [View code](http://example.com/)
 
@@ -44,6 +51,13 @@ This project is an implementation of the classic Checker game with an AI opponen
 <img src="images/pose1.png?raw=true" width="480"/>
 Developed real-time pose estimation algorithms using OpenPose to track dynamic gymnastics movements. Designed data structures for body points and trajectories with interactive visualization tools, ensuring accuracy and usability. Enhanced algorithms and user interface through testing and feedback from gymnasts and coaches
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/OpenPose-white?logo=opensourceinitiative&logoColor=%233DA639)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikitlearn&logoColor=%23F7931E
+)](#) [![](https://img.shields.io/badge/OpenCV-white?logo=opencv&logoColor=%235C3EE8)](#) [![](https://img.shields.io/badge/Caffe-white)](#)
+
+
+
+
+
 [View code](http://example.com/)
 
 ### State Legislator Tweets Election Years
@@ -57,8 +71,10 @@ Developed a Java application integrated with SQL to analyze state legislators' t
 <img src="images/g1.jpg?raw=true" width="480"/>
 <img src="https://github.com/jasmineyliang/multi-omics-analysis-of-metabolic-genes-perturbations-in-saccharomyces-cerevisiae/blob/main/plot/TSNE_6.png?raw=true" width="480"/>
 <img src="https://github.com/jasmineyliang/multi-omics-analysis-of-metabolic-genes-perturbations-in-saccharomyces-cerevisiae/blob/main/plot/UMAP.png" width="480"/>
-[View code](https://github.com/jasmineyliang/multi-omics-analysis-of-metabolic-genes-perturbations-in-saccharomyces-cerevisiae)
 
+[View code](https://github.com/jasmineyliang/multi-omics-analysis-of-metabolic-genes-perturbations-in-saccharomyces-cerevisiae)
+ <br />
+[View presentation](https://github.com/jasmineyliang/multi-omics-analysis-of-metabolic-genes-perturbations-in-saccharomyces-cerevisiae/blob/main/project-presentation.pdf)
 
 ---
 ## Technical Mastery and Problem Solving
