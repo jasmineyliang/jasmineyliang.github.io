@@ -17,8 +17,6 @@
 [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](http://example.com/) 
 
 
-[View code](http://example.com/)
-
 ### Anomaly Detection for Failing Servers On Networks
 <img src="images/server2.png?raw=true" width="480"/>
 <img src="images/server1.png?raw=true" width="480"/>
