@@ -237,11 +237,3 @@ Developed a Java application integrated with SQL to analyze state legislators' t
   Turing Machine (TM) and Prove Computability, Decidability, Countability, Slice and Paramertized of Languages, Enumeration, Universal TM, Prefix TM, Classes and Subset, Quantum Computing
   
 ---
-
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
