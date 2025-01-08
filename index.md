@@ -70,7 +70,7 @@ Developed a Java application integrated with SQL to analyze state legislators' t
 ### Multi Omics Analysis Of Metabolic Genes Perturbations In Saccharomyces Cerevisiae
 <img src="images/g1.jpg?raw=true" width="480"/>
 <img src="https://github.com/jasmineyliang/multi-omics-analysis-of-metabolic-genes-perturbations-in-saccharomyces-cerevisiae/blob/main/plot/TSNE_6.png?raw=true" width="480"/>
-<img src="https://github.com/jasmineyliang/multi-omics-analysis-of-metabolic-genes-perturbations-in-saccharomyces-cerevisiae/blob/main/plot/UMAP.png" width="480"/>
+<img src="https://github.com/jasmineyliang/multi-omics-analysis-of-metabolic-genes-perturbations-in-saccharomyces-cerevisiae/blob/main/plot/UMAP.png?raw=true" width="480"/>
 
 [View code](https://github.com/jasmineyliang/multi-omics-analysis-of-metabolic-genes-perturbations-in-saccharomyces-cerevisiae)
  <br />
