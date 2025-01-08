@@ -59,7 +59,7 @@ This project is an implementation of the classic Checker game with an AI opponen
 <img src="images/pose1.png?raw=true" width="480"/>
 Developed real-time pose estimation algorithms using OpenPose to track dynamic gymnastics movements. Designed data structures for body points and trajectories with interactive visualization tools, ensuring accuracy and usability. Enhanced algorithms and user interface through testing and feedback from gymnasts and coaches
 
-[![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](http://example.com/) 
+[![](https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000)](https://github.com/jasmineyliang/pose_estimation/blob/main/575_final.pdf)
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 [![](https://img.shields.io/badge/OpenPose-white?logo=opensourceinitiative&logoColor=%233DA639)](#) 
 [![](https://img.shields.io/badge/sklearn-white?logo=scikitlearn&logoColor=%23F7931E)](#) 
