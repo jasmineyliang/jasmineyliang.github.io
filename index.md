@@ -167,6 +167,7 @@ Developed a Java application integrated with SQL to analyze state legislators' t
 - Data Visualization: PCA, Dimension Reduction [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/gene-dimension-reduction-pca)
 - Network Inference Challenge, Area Under ROC curve (AUC), Bagging: Bootstrap, Data Processing Inequality [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/gene-network-inference)
 - Gene Ontology Experiment [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/gene-ontology)
+- Whole Cell Model Construction [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/whole-cell-model-construction)
 - DREAM Challenge, Precision and Recall (PR), Receiver Operating Characteristic (ROC), GENIES3, Boolean Network Model [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/gene-network-dynamics)
 
 
@@ -186,7 +187,7 @@ Developed a Java application integrated with SQL to analyze state legislators' t
 - Hello! World [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/OOP/tree/main/project1)
 - Atom & Basketball [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/OOP/tree/main/project2)
 - Rabbit Population Simulation [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/OOP/tree/main/project3)
-- Dounut Shop [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)]([https://github.com/jasmineyliang/gene-network-analysis](https://github.com/jasmineyliang/OOP/tree/main/project4))
+- Donut Shop [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)]([https://github.com/jasmineyliang/gene-network-analysis](https://github.com/jasmineyliang/OOP/tree/main/project4))
 - Air Pumping [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/OOP/tree/main/project5)
 - The Runner [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/OOP/tree/main/project6)
 - Texas hold 'em [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/OOP/tree/main/project7)
@@ -196,12 +197,19 @@ Developed a Java application integrated with SQL to analyze state legislators' t
 ---
 
 ### Innovative Research and Insights
+#### AI and Adversarial Example
+- Machine Learning with Membership Privacy using Adversarial Regularization [![](https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000)](https://github.com/jasmineyliang/ai-and-adversarial-example-proj/blob/main/first-presentation-of-ai-adversial-example.pdf)
+- Comprehensive Privacy Analysis of Deep Learning:Passive and Active White-box Inference Attacksagainst Centralized and Federated Learning [![](https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000)](https://github.com/jasmineyliang/ai-and-adversarial-example-proj/blob/main/second-presentation-of-ai-adversial-example.pdf)
+- Adversarial Example in Biomech Research [![](https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000)](https://github.com/jasmineyliang/ai-and-adversarial-example-proj/blob/main/final-project-presentation.pdf)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+#### AI and Healthcare
+- Cloud Computing in Healthcare and Privacy [![](https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000)](https://github.com/jasmineyliang/cloud-computing-in-healthcare-and-privacy-survey-proj/blob/main/term-project-presentation.pdf)
+- Classify individual with Overweight by IMUs Signals [![](https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000)](https://github.com/jasmineyliang/ml-imu-termproj/blob/main/ml-imu-termproj-presentation.pdf)
+- Situation Awareness in Falling Prediction and Prevention [![](https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000)](https://github.com/jasmineyliang/situation-awareness-in-falling-prediction-and-prevention/blob/main/COMS610_final%20report.pdf)
+- AI Survey Over Applications of Patient with Stroke [![](https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000)](https://github.com/jasmineyliang/AI-survey-over-applications-of-patient-stroke)
+
+
+
 
 ---
 ### Theory
