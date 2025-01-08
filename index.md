@@ -1,7 +1,7 @@
 
 ---
 <a id="Impact"></a>
-
+<br />
 ## Selected Projects Driving Real-World Impact
 ### Fine Tune LLM
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -97,7 +97,7 @@ Developed a Java application integrated with SQL to analyze state legislators' t
 
 ---
 <a id="skill"></a>
-
+<br />
 ## Technical Mastery and Problem Solving
 ### Machine Learning 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
@@ -137,6 +137,7 @@ Developed a Java application integrated with SQL to analyze state legislators' t
 
 
 - Housing Price Prediction with Advanced Algorithm [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/advanced-housing-price-prediction/blob/main/HousingCostPrediction_updated.ipynb)
+- Fare and Demand [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/fare-and-demand-simulation/blob/main/DemandPredict.ipynb) [![](https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000)](https://github.com/jasmineyliang/fare-and-demand-simulation/blob/main/Presentation-GH.pdf)
 - Database Management Sysytem - Java Database Connectivity (JDBC) [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/dbms-design-proj-jdbc)
 - Database Management Sysytem - Java Server Pages (JSP) [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/dbms-design-proj-jsp)
 - Database Management System Design [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/dbms-design-proj)
@@ -197,7 +198,7 @@ Developed a Java application integrated with SQL to analyze state legislators' t
 
 ---
 <a id="research"></a>
-
+<br />
 ### Innovative Research and Insights
 #### AI and Adversarial Example
 - Machine Learning with Membership Privacy using Adversarial Regularization [![](https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000)](https://github.com/jasmineyliang/ai-and-adversarial-example-proj/blob/main/first-presentation-of-ai-adversial-example.pdf)
