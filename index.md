@@ -3,7 +3,7 @@
 <a id="Impact"></a>
 <br />
 ## Selected Projects Driving Real-World Impact
-### Fine Tune LLM
+### Pipeline for Text, Audio and Image, Multimodalities & Fine Tune LLM
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/train) 
