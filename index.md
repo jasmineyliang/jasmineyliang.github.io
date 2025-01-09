@@ -23,7 +23,7 @@
 Developed anomaly detection algorithms to identify abnormal server behavior using throughput and latency metrics. Applied Gaussian models to visualize and detect anomalies in 2D datasets and extended the approach to high-dimensional data, achieving high detection accuracy through cross-validation. Optimized detection thresholds using precision-recall metrics, improving the accuracy of identifying true anomalies.
 
 
-[![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/recommendation_system/tree/main/ex8) 
+[![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/recommendation_system) 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 [![](https://img.shields.io/badge/Matlab-white?logo=wolframmathematica&logoColor=%23DD1100)](#) 
 [![](https://img.shields.io/badge/sklearn-white?logo=scikitlearn&logoColor=%23F7931E)](#) 
@@ -35,7 +35,7 @@ Developed anomaly detection algorithms to identify abnormal server behavior usin
 <img src="images/RS2.png?raw=true" width="480"/>
 Developed and optimized collaborative filtering algorithms to predict movie ratings using a dataset of 1682 movies and 943 users. Implemented regularization techniques to improve model generalization and minimize overfitting. Enhanced user satisfaction by personalizing movie recommendations based on user preferences, improving engagement.
 
-[![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/recommendation_system/tree/main/ex8) 
+[![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/recommendation_system) 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 [![](https://img.shields.io/badge/Matlab-white?logo=wolframmathematica&logoColor=%23DD1100)](#) 
 [![](https://img.shields.io/badge/sklearn-white?logo=scikitlearn&logoColor=%23F7931E)](#) 
