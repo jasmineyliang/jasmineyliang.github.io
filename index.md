@@ -182,7 +182,7 @@ Developed a Java application integrated with SQL to analyze state legislators' t
 - Explosion Robot [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/OOP/tree/main/hw4)
 
 #### Mini Projects
-- Advanced Itteration Algorithm [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/OOP/tree/main/miniassignment1)
+- Advanced Iteration Algorithm [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/OOP/tree/main/miniassignment1)
 - Advanced Strings Manipulation [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/OOP/tree/main/mini2)
 
 #### Real-World Application
