@@ -6,7 +6,7 @@
 ### Fine Tune LLM
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](http://example.com/) 
+[![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/train) 
 
 ### Context-aware ChatPDF
 
