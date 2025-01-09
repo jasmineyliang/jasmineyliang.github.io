@@ -234,7 +234,7 @@ Developed a Java application integrated with SQL to analyze state legislators' t
   [![](https://img.shields.io/badge/View_Work-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/theory-of-computation)
 - Advanced Computation (class content is not allowed to upload)
 
-  Turing Machine (TM) and Prove Computability, Decidability, Countability, Slice and Paramertized of Languages, Enumeration, Universal TM, Prefix TM, Classes and Subset, Quantum Computing
+  Turing Machine (TM) and Prove Computability, Decidability, Countability, Slice and Parameterized of Languages, Enumeration, Universal TM, Prefix TM, Classes and Subset, Quantum Computing
 
 
 ---
