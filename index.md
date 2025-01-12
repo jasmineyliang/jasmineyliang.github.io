@@ -21,7 +21,7 @@
 ### Context-aware ChatPDF
 <img src="images/a1.jpg?raw=true" width="480" width="480"/>
 
-[![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/https://github.com/jasmineyliang/Context-aware_ChatPDF_Application)
+[![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/Context-aware_ChatPDF_Application)
 [![](https://img.shields.io/badge/RAG-white?&logoColor=%232C2255)](#)
 [![](https://img.shields.io/badge/embeddings-white?&logoColor=%232C2255)](#)
 [![](https://img.shields.io/badge/Huggingface-white?&logoColor=%232C2255)](#)
