@@ -10,7 +10,7 @@
 
 ### Context-aware ChatPDF
 
-[![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](http://example.com/) 
+[![](https://github.com/jasmineyliang/Context-aware_ChatPDF_Application) 
 
 ### Multimodal AI Applications with LangChain & OpenAI API
 
