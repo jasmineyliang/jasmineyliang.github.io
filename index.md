@@ -71,6 +71,15 @@ Developed and optimized collaborative filtering algorithms to predict movie rati
 [![](https://img.shields.io/badge/Collaborative_Filtering-white?logo=scikitlearn&logoColor=%23F7931E)](#) 
 [![](https://img.shields.io/badge/Regularized_Gradient-white?logo=scikitlearn&logoColor=%23F7931E)](#)
 
+### Orientation Estimation in 3D with IMUs
+<img src="https://github.com/jasmineyliang/AHRS_sensor_fusion/blob/main/AHRS.jpg?raw=true" width="480"/>
+A program that read IMU signal to estimate the real-time orientation and reconstruction of the object's orientation back to 3D space.
+
+
+[![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/AHRS_sensor_fusion) 
+[![](https://img.shields.io/badge/MATLAB-white?&logoColor=%232C2255)](#) 
+
+
 ### AI Checker Game
 <img src="images/checker1.png?raw=true" width="480"/>
 <img src="images/checker2.png?raw=true" width="480"/>
