@@ -4,15 +4,18 @@
 <br />
 ## Selected Projects Driving Real-World Impact
 ### Pipeline for Text, Audio and Image, Multimodalities & Fine Tune LLM
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/a2.jpeg?raw=true" width="480"/>
 
 [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/train) 
 
 ### Context-aware ChatPDF
+<img src="images/a1.jpg?raw=true" width="480" width="480"/>
 
-[![](https://github.com/jasmineyliang/Context-aware_ChatPDF_Application) 
+[![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/Context-aware_ChatPDF_Application) 
+
 
 ### Multimodal AI Applications with LangChain & OpenAI API
+<img src="images/p3.png?raw=true" width="480"/>
 
 [![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](http://example.com/) 
 
@@ -267,21 +270,33 @@ Developed a Java application integrated with SQL to analyze state legislators' t
 ## Selective Papers
 [1] **JY Liang**, H Bian, W Zhang, CK Chang, LS Chou. (2024) Striding into Clarity: Wearable Sensor-Driven Estimation of Knee Adduction Moment, Unveiling the Black Box with Sequence-Based Neural Networks and Explainable Artificial Intelligence. AAAI 2024 Spring Symposium on Clinical Foundation Models 
 
+<img src="images/Screenshot 1.png?raw=true" width="480"/>
+<img src="images/Screenshot 2.png?raw=true" width="480"/>
+
 [![](https://img.shields.io/badge/Paper-white?)](https://openreview.net/pdf?id=lWsDWnre2l)
 
 [2] **JY Liang** & LS Chou. (2024) Center of mass acceleration during walking: comparison between IMU and camera-based motion capture methodologies. Wearable Technologies
+
+<img src="images/p2.png?raw=true" width="480"/>
+<img src="images/p2_1.png?raw=true" width="480"/>
 
 [![](https://img.shields.io/badge/Paper-white?)](https://www.cambridge.org/core/journals/wearable-technologies/article/center-of-mass-acceleration-during-walking-comparison-between-imu-and-camerabased-motion-capture-methodologies/EE637BCC2EE3335D02A3600F05FFBF28)
 
 [3] **JY Liang** & LS Chou. Estimation of Knee Adduction Moment During Walking Using Wearable Sensor Data With the Application of Sequence-based Artificial Recurrent Neural Network. IX World Congress of Biomechanics 2022 
 
+<img src="images/k1.jpeg?raw=true" width="480"/>
+
 [![](https://img.shields.io/badge/Paper-white?)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SnALrRkAAAAJ&sortby=pubdate&citation_for_view=SnALrRkAAAAJ:Tyk-4Ss8FVUC)
 
 [4] **JY Liang** & LS Chou. (2023) Assessment of Gait Balance Control Using Inertial Measurement Units — A Narrative Review. World Scientific Annual Review of Biomechanics, 2330006
 
+<img src="images/r1.jpeg?raw=true" width="480"/>
+
 [![](https://img.shields.io/badge/Paper-white?)](https://www.worldscientific.com/doi/abs/10.1142/S2810958923300068)
 
 [5] **JY Liang** , M Zhang, N Lamoureux, J Lansing, LS Chou, GJ Welk. (2023) Estimation of STEADI Performance Using Inertial Measurement Unit
+
+<img src="images/e2.jpeg?raw=true" width="480"/>
 
 [![](https://img.shields.io/badge/Paper-white?)](https://www.sciencedirect.com/science/article/pii/S2950307824000286)
 
