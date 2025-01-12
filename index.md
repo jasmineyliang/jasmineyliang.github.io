@@ -6,18 +6,44 @@
 ### Pipeline for Text, Audio and Image, Multimodalities & Fine Tune LLM
 <img src="images/a2.jpeg?raw=true" width="480"/>
 
-[![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/train) 
+[![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/train)
+[![](https://img.shields.io/badge/Piplines-white?&logoColor=%232C2255)](#)
+[![](https://img.shields.io/badge/LLM-white?&logoColor=%232C2255)](#)
+[![](https://img.shields.io/badge/MLLMs-white?&logoColor=%232C2255)](#)
+[![](https://img.shields.io/badge/sentiment_analysis-white?&logoColor=%232C2255)](#)
+[![](https://img.shields.io/badge/Audio-white?&logoColor=%232C2255)](#)
+[![](https://img.shields.io/badge/Text-white?&logoColor=%232C2255)](#)
+[![](https://img.shields.io/badge/Multimodalities-white?&logoColor=%232C2255)](#)
+[![](https://img.shields.io/badge/google_vit_base_patch16_224-white?&logoColor=%232C2255)](#)
+[![](https://img.shields.io/badge/BERT-white?&logoColor=%232C2255)](#)
+
 
 ### Context-aware ChatPDF
 <img src="images/a1.jpg?raw=true" width="480" width="480"/>
 
-[![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/Context-aware_ChatPDF_Application) 
+[![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/https://github.com/jasmineyliang/Context-aware_ChatPDF_Application)
+[![](https://img.shields.io/badge/RAG-white?&logoColor=%232C2255)](#)
+[![](https://img.shields.io/badge/embeddings-white?&logoColor=%232C2255)](#)
+[![](https://img.shields.io/badge/Huggingface-white?&logoColor=%232C2255)](#)
+[![](https://img.shields.io/badge/LLM-white?&logoColor=%232C2255)](#)
+[![](https://img.shields.io/badge/context_aware-white?&logoColor=%232C2255)](#)
+[![](https://img.shields.io/badge/chat_engines-white?&logoColor=%232C2255)](#)
+[![](https://img.shields.io/badge/memory_buffers-white?&logoColor=%232C2255)](#)
+
 
 
 ### Multimodal AI Applications with LangChain & OpenAI API
 <img src="images/p3.png?raw=true" width="480"/>
 
-[![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](http://example.com/) 
+[![](https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717)](https://github.com/jasmineyliang/MLLM_langchain) 
+[![](https://img.shields.io/badge/Multimodal-white?&logoColor=%232C2255)](#)
+[![](https://img.shields.io/badge/LangChain-white?&logoColor=%232C2255)](#)
+[![](https://img.shields.io/badge/OpenAI-white?&logoColor=%232C2255)](#)
+[![](https://img.shields.io/badge/whisper-white?&logoColor=%232C2255)](#)
+[![](https://img.shields.io/badge/speech_to_text_AI-white?&logoColor=%232C2255)](#)
+[![](https://img.shields.io/badge/chat_engines-white?&logoColor=%232C2255)](#)
+[![](https://img.shields.io/badge/AI_agent-white?&logoColor=%232C2255)](#)
+
 
 
 ### Anomaly Detection for Failing Servers On Networks
