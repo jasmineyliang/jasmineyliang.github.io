@@ -1,14 +1,16 @@
 title: Jasmine Liang # your name (or website title) here
 logo: "/images/20231007_160933496_iOS copy.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I am a research associate at Notre Dame AI and SciML,
-  with a PhD in CS and Biomech from Iowa State University.
+  I am a research associate at University of Notre Dame AI and SciML,
+  with a PhD in Computer Science and Biomechanics (the study of human motion) 
+  from Iowa State University.
   My research interests focus on machine learning applied to a 
   variety of sequential data, e.g., time-series, spatiotemporal, NLP
-  with applications spanning healthcare, biomechanics, sensors, and engineering.
+  with applications spanning biomechanics, sensors, and engineering.
   <br><br>
-   * Known for contributions to integrate AI and thermal distribution predition on transistor
-   * And IMUs to understand motion.
+  Known for contributions to 
+  1. integrate AI and thermal distribution predition on transistor
+  2. deploy AI system on IMUs and MoCap to understand motion.
   <br><br>
   <a href="https://www.linkedin.com/in/jypliang/"> LinkedIn </a> 
   
