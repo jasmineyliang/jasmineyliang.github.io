@@ -161,7 +161,6 @@ function ProjectCard({ p }: { p: Project }) {
         <h3 className="card-title">{p.title}</h3>
         <p className="card-venue">{p.venue}</p>
       </div>
-      <p className="card-teaser">{p.teaser}</p>
       <p className="card-desc">{p.description}</p>
       <div className="card-stack">
         {p.stack.map((t) => (
