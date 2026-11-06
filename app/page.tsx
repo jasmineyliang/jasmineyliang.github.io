@@ -206,7 +206,7 @@ export default function Home() {
           <div className="hero-layout">
             <div className="hero-text">
               <p className="hero-label">
-                Computer Vision Engineer · Physical AI · Meta Reality Labs
+                Computer Vision Engineer · Physical AI
               </p>
               <h1>
                 Jasmine Liang<span className="hero-phd">, PhD</span>
