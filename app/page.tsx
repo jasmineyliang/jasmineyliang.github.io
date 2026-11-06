@@ -9,6 +9,7 @@ type Project = {
   venue: string;
   teaser: string;
   description: string;
+  image: string;
   stack: string[];
   link: string;
   linkLabel: string;
@@ -23,6 +24,7 @@ const PROJECTS: Project[] = [
     teaser: 'Adapts captured human motion to any furniture geometry — turning one mocap session into thousands of training examples.',
     description:
       'Learning-assisted differentiable kinematics that adapts captured human motion to arbitrary furniture geometries, generating diverse synthetic training data at production scale.',
+    image: 'https://seat-swap.github.io/teaser.gif',
     stack: ['PyTorch', 'Differentiable Sim', 'HOI', 'Synthetic Data'],
     link: 'https://seat-swap.github.io/',
     linkLabel: 'View project',
@@ -35,6 +37,7 @@ const PROJECTS: Project[] = [
     teaser: 'Clinical knee-load prediction from wrist-worn IMU — no lab, no cameras, just a sensor and an RNN.',
     description:
       'Sequence-based RNN with explainable AI estimating knee adduction moment from IMU signals — bridging wearable sensing and clinical biomechanics at scale.',
+    image: 'https://jasmineyliang.github.io/images/Screenshot%201.png?raw=true',
     stack: ['Python', 'PyTorch', 'LSTM', 'IMU', 'XAI'],
     link: 'https://openreview.net/pdf?id=lWsDWnre2l',
     linkLabel: 'View paper',
@@ -47,6 +50,7 @@ const PROJECTS: Project[] = [
     teaser: 'Tracks gymnastics routines in real time and surfaces objective scoring metrics for judges.',
     description:
       'Real-time pose estimation using OpenPose to track gymnastics movements, with body-trajectory data structures and interactive visualization for objective judging support.',
+    image: 'https://jasmineyliang.github.io/images/pose1.png?raw=true',
     stack: ['Python', 'OpenPose', 'OpenCV', 'Caffe', 'sklearn'],
     link: 'https://github.com/jasmineyliang/pose_estimation/blob/main/575_final.pdf',
     linkLabel: 'View presentation',
@@ -59,6 +63,7 @@ const PROJECTS: Project[] = [
     teaser: 'One harness to fine-tune and serve models across text, audio, and image — BERT and ViT unified.',
     description:
       'End-to-end pipeline for fine-tuning and deploying LLMs across text, audio, and image modalities using BERT and ViT architectures with HuggingFace.',
+    image: 'https://jasmineyliang.github.io/images/a2.jpeg?raw=true',
     stack: ['Python', 'PyTorch', 'BERT', 'ViT', 'HuggingFace'],
     link: 'https://github.com/jasmineyliang/train',
     linkLabel: 'View code',
@@ -71,6 +76,7 @@ const PROJECTS: Project[] = [
     teaser: 'Ask any question over a long document — RAG with context-aware memory keeps answers grounded.',
     description:
       'Retrieval-augmented generation system for document Q&A with context-aware memory buffers and embedding-based retrieval over long documents.',
+    image: 'https://jasmineyliang.github.io/images/a1.jpg?raw=true',
     stack: ['Python', 'LLM', 'RAG', 'Embeddings', 'HuggingFace'],
     link: 'https://github.com/jasmineyliang/Context-aware_ChatPDF_Application',
     linkLabel: 'View code',
@@ -83,6 +89,7 @@ const PROJECTS: Project[] = [
     teaser: 'Reconstructs full 3D orientation from raw IMU in real time using Kalman-filtered AHRS fusion.',
     description:
       'Real-time 3D orientation reconstruction from IMU signals using AHRS algorithms and advanced Kalman filtering for accurate spatial tracking.',
+    image: 'https://raw.githubusercontent.com/jasmineyliang/AHRS_sensor_fusion/refs/heads/main/AHRS.jpg',
     stack: ['MATLAB', 'IMU', 'Kalman Filter', 'AHRS'],
     link: 'https://github.com/jasmineyliang/AHRS_sensor_fusion',
     linkLabel: 'View code',
@@ -156,6 +163,9 @@ const AWARDS = [
 function ProjectCard({ p }: { p: Project }) {
   return (
     <article className="project-card">
+      <div className="card-img-wrap">
+        <img src={p.image} alt={p.title} className="card-img" />
+      </div>
       <span className={`card-pillar ${p.pillarClass}`}>{p.pillar}</span>
       <div>
         <h3 className="card-title">{p.title}</h3>
