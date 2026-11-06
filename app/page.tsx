@@ -7,6 +7,7 @@ type Project = {
   pillarClass: string;
   title: string;
   venue: string;
+  teaser: string;
   description: string;
   stack: string[];
   link: string;
@@ -19,6 +20,7 @@ const PROJECTS: Project[] = [
     pillarClass: 'pillar-sim',
     title: 'SeatSwap',
     venue: 'Meta Reality Labs · SIGGRAPH Posters 2026',
+    teaser: 'Adapts captured human motion to any furniture geometry — turning one mocap session into thousands of training examples.',
     description:
       'Learning-assisted differentiable kinematics that adapts captured human motion to arbitrary furniture geometries, generating diverse synthetic training data at production scale.',
     stack: ['PyTorch', 'Differentiable Sim', 'HOI', 'Synthetic Data'],
@@ -30,6 +32,7 @@ const PROJECTS: Project[] = [
     pillarClass: 'pillar-per',
     title: 'Wearable Sensor Biomechanics',
     venue: 'AAAI 2024 · Wearable Technologies Journal',
+    teaser: 'Clinical knee-load prediction from wrist-worn IMU — no lab, no cameras, just a sensor and an RNN.',
     description:
       'Sequence-based RNN with explainable AI estimating knee adduction moment from IMU signals — bridging wearable sensing and clinical biomechanics at scale.',
     stack: ['Python', 'PyTorch', 'LSTM', 'IMU', 'XAI'],
@@ -41,6 +44,7 @@ const PROJECTS: Project[] = [
     pillarClass: 'pillar-per',
     title: 'Real-Time Pose Estimation System',
     venue: 'Computer Vision · Sports Analytics',
+    teaser: 'Tracks gymnastics routines in real time and surfaces objective scoring metrics for judges.',
     description:
       'Real-time pose estimation using OpenPose to track gymnastics movements, with body-trajectory data structures and interactive visualization for objective judging support.',
     stack: ['Python', 'OpenPose', 'OpenCV', 'Caffe', 'sklearn'],
@@ -52,6 +56,7 @@ const PROJECTS: Project[] = [
     pillarClass: 'pillar-prod',
     title: 'Multimodal LLM Pipeline',
     venue: 'Applied AI · Fine-Tuning',
+    teaser: 'One harness to fine-tune and serve models across text, audio, and image — BERT and ViT unified.',
     description:
       'End-to-end pipeline for fine-tuning and deploying LLMs across text, audio, and image modalities using BERT and ViT architectures with HuggingFace.',
     stack: ['Python', 'PyTorch', 'BERT', 'ViT', 'HuggingFace'],
@@ -63,6 +68,7 @@ const PROJECTS: Project[] = [
     pillarClass: 'pillar-prod',
     title: 'Context-Aware ChatPDF',
     venue: 'Applied AI · RAG',
+    teaser: 'Ask any question over a long document — RAG with context-aware memory keeps answers grounded.',
     description:
       'Retrieval-augmented generation system for document Q&A with context-aware memory buffers and embedding-based retrieval over long documents.',
     stack: ['Python', 'LLM', 'RAG', 'Embeddings', 'HuggingFace'],
@@ -74,6 +80,7 @@ const PROJECTS: Project[] = [
     pillarClass: 'pillar-per',
     title: '3D Orientation Estimation via AHRS',
     venue: 'Sensor Fusion · IMU',
+    teaser: 'Reconstructs full 3D orientation from raw IMU in real time using Kalman-filtered AHRS fusion.',
     description:
       'Real-time 3D orientation reconstruction from IMU signals using AHRS algorithms and advanced Kalman filtering for accurate spatial tracking.',
     stack: ['MATLAB', 'IMU', 'Kalman Filter', 'AHRS'],
@@ -154,6 +161,7 @@ function ProjectCard({ p }: { p: Project }) {
         <h3 className="card-title">{p.title}</h3>
         <p className="card-venue">{p.venue}</p>
       </div>
+      <p className="card-teaser">{p.teaser}</p>
       <p className="card-desc">{p.description}</p>
       <div className="card-stack">
         {p.stack.map((t) => (
@@ -195,17 +203,26 @@ export default function Home() {
       <main id="main">
         {/* ── Hero ── */}
         <section className="hero wrap">
+          <p className="hero-org">Meta Reality Labs</p>
+          <div className="hero-name-row">
+            <img
+              src="https://jasmineyliang.github.io/images/20231007_160933496_iOS%20copy.jpg?raw=true"
+              alt="Jasmine Liang"
+              className="hero-headshot"
+            />
+            <h1>
+              Jasmine Liang<span className="hero-phd">, PhD</span>
+            </h1>
+          </div>
           <p className="hero-label">
-            Computer Vision Engineer · Physical AI · Meta Reality Labs
+            Computer Vision Engineer · Physical AI
           </p>
-          <h1>
-            Jasmine Liang<span className="hero-phd">, PhD</span>
-          </h1>
           <p className="hero-bio">
             I develop AI methods and translate them into scalable systems — across simulation,
-            perception, and production. My background spans computational biomechanics, wearable
-            sensor perception, scientific machine learning, and production character animation
-            at Meta Reality Labs.
+            perception, and production. My work spans computational biomechanics, wearable
+            sensor perception, scientific machine learning, agentic AI, and production
+            character animation. I build and harness AI systems end-to-end: from research
+            prototype to deployed pipeline.
           </p>
           <div className="pillars">
             <span className="pillar-chip chip-sim">Simulation</span>
@@ -326,7 +343,7 @@ export default function Home() {
                   GitHub ↗
                 </a>
                 <a
-                  href="https://scholar.google.com/citations?user=SnALrRkAAAAJ"
+                  href="https://scholar.google.com/citations?user=1kVmiDkAAAAJ"
                   target="_blank"
                   rel="noreferrer"
                   className="about-link"
