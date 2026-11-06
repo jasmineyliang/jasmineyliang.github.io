@@ -372,6 +372,11 @@ export default function Home() {
             </div>
 
             <div>
+              <img
+                src="https://jasmineyliang.github.io/images/20231007_160933496_iOS%20copy.jpg?raw=true"
+                alt="Jasmine Liang"
+                style={{ width: 96, height: 96, borderRadius: '50%', objectFit: 'cover', marginBottom: 28, border: '2px solid var(--border)' }}
+              />
               <div className="timeline">
                 <div className="timeline-item">
                   <p className="timeline-label">Now</p>
