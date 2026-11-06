@@ -203,33 +203,36 @@ export default function Home() {
       <main id="main">
         {/* ── Hero ── */}
         <section className="hero wrap">
-          <p className="hero-org">Meta Reality Labs</p>
-          <div className="hero-name-row">
-            <img
-              src="https://jasmineyliang.github.io/images/20231007_160933496_iOS%20copy.jpg?raw=true"
-              alt="Jasmine Liang"
-              className="hero-headshot"
-            />
-            <h1>
-              Jasmine Liang<span className="hero-phd">, PhD</span>
-            </h1>
+          <div className="hero-layout">
+            <div className="hero-text">
+              <p className="hero-label">
+                Computer Vision Engineer · Physical AI · Meta Reality Labs
+              </p>
+              <h1>
+                Jasmine Liang<span className="hero-phd">, PhD</span>
+              </h1>
+              <p className="hero-bio">
+                I develop AI methods and translate them into scalable systems — across simulation,
+                perception, and production. My work spans computational biomechanics, wearable
+                sensor perception, scientific machine learning, agentic AI, and production
+                character animation. I build and harness AI systems end-to-end: from research
+                prototype to deployed pipeline.
+              </p>
+              <div className="pillars">
+                <span className="pillar-chip chip-sim">Simulation</span>
+                <span className="pillar-chip chip-per">Perception</span>
+                <span className="pillar-chip chip-prod">Production</span>
+              </div>
+              <a className="hero-cta" href="#about">Learn more ↓</a>
+            </div>
+            <div className="hero-photo-col">
+              <img
+                src="https://jasmineyliang.github.io/images/20231007_160933496_iOS%20copy.jpg?raw=true"
+                alt="Jasmine Liang"
+                className="hero-headshot"
+              />
+            </div>
           </div>
-          <p className="hero-label">
-            Computer Vision Engineer · Physical AI
-          </p>
-          <p className="hero-bio">
-            I develop AI methods and translate them into scalable systems — across simulation,
-            perception, and production. My work spans computational biomechanics, wearable
-            sensor perception, scientific machine learning, agentic AI, and production
-            character animation. I build and harness AI systems end-to-end: from research
-            prototype to deployed pipeline.
-          </p>
-          <div className="pillars">
-            <span className="pillar-chip chip-sim">Simulation</span>
-            <span className="pillar-chip chip-per">Perception</span>
-            <span className="pillar-chip chip-prod">Production</span>
-          </div>
-          <a className="hero-cta" href="#about">Learn more ↓</a>
         </section>
 
         {/* ── About ── */}

@@ -64,20 +64,18 @@ img { display: block; max-width: 100%; }
 
 /* ── Hero ── */
 .hero { padding: 72px 0 60px; border-bottom: 1px solid var(--border); }
-.hero-org {
-  font-size: 11px; letter-spacing: 0.14em; color: var(--muted);
-  text-transform: uppercase; font-weight: 600; margin-bottom: 14px;
+.hero-layout {
+  display: flex; align-items: center; gap: 48px;
 }
-.hero-name-row {
-  display: flex; align-items: center; gap: 20px;
-}
+.hero-text { flex: 1; min-width: 0; }
+.hero-photo-col { flex-shrink: 0; }
 .hero-headshot {
-  width: 56px; height: 56px; border-radius: 50%; object-fit: cover;
-  border: 2px solid var(--border); flex-shrink: 0;
+  width: 220px; height: 220px; border-radius: 12px; object-fit: cover;
+  border: 1px solid var(--border);
 }
 .hero-label {
   font-size: 12px; letter-spacing: 0.1em; color: var(--muted);
-  text-transform: uppercase; font-weight: 500; margin-top: 14px; margin-bottom: 0;
+  text-transform: uppercase; font-weight: 500; margin-bottom: 20px;
 }
 .hero h1 {
   font-size: clamp(40px, 5.5vw, 70px);
@@ -267,6 +265,7 @@ footer { padding: 24px 0; }
 @media (max-width: 768px) {
   .wrap { width: calc(100% - 48px); }
   .nav-links { gap: 20px; }
+  .hero-headshot { width: 160px; height: 160px; }
   .project-grid { grid-template-columns: repeat(2, 1fr); gap: 16px; }
   .about-grid { grid-template-columns: 1fr; gap: 40px; }
   .pub-item { grid-template-columns: 44px 1fr 18px; gap: 10px; }
@@ -281,6 +280,8 @@ footer { padding: 24px 0; }
   .section { padding: 48px 0; }
   .project-grid { grid-template-columns: 1fr; }
   .hero h1 { letter-spacing: -0.04em; }
+  .hero-layout { flex-direction: column-reverse; align-items: flex-start; gap: 24px; }
+  .hero-headshot { width: 100px; height: 100px; }
   .pub-item { grid-template-columns: 36px 1fr; }
   .pub-arrow { display: none; }
 }
