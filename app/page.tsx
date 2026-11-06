@@ -176,9 +176,10 @@ export default function Home() {
         <div className="nav-inner wrap">
           <a href="#" className="wordmark" aria-label="Jasmine Liang home">JL<span>.</span></a>
           <div className="nav-links">
+            <a href="#about">About</a>
             <a href="#work">Work</a>
             <a href="#publications">Publications</a>
-            <a href="#about">About</a>
+            <a href="#archive">Archive</a>
             <a
               href="https://www.linkedin.com/in/jypliang"
               target="_blank"
@@ -211,98 +212,7 @@ export default function Home() {
             <span className="pillar-chip chip-per">Perception</span>
             <span className="pillar-chip chip-prod">Production</span>
           </div>
-          <a className="hero-cta" href="#work">View selected work ↓</a>
-        </section>
-
-        {/* ── Selected Work ── */}
-        <section className="section wrap" id="work">
-          <div className="section-head">
-            <p className="section-label">Selected work</p>
-            <h2 className="section-title">Research built into working systems.</h2>
-          </div>
-          <div className="project-grid">
-            {PROJECTS.map((p) => (
-              <ProjectCard key={p.title} p={p} />
-            ))}
-          </div>
-        </section>
-
-        {/* ── Full Archive ── */}
-        <div className="archive-section wrap" id="archive">
-          <div className="archive-section-head">
-            <p className="section-label">Full project archive</p>
-          </div>
-
-          <details className="archive-item">
-            <summary className="archive-summary">
-              <span className="archive-summary-title">AI for Business — Applied Projects</span>
-              <span className="archive-count">10 projects</span>
-              <span className="archive-chevron">↓</span>
-            </summary>
-            <div className="archive-content">
-              <CollectionContent index={0} collClass="coll-0" />
-            </div>
-          </details>
-
-          <details className="archive-item">
-            <summary className="archive-summary">
-              <span className="archive-summary-title">Skill-Based Projects — Technical CS</span>
-              <span className="archive-count">5 categories</span>
-              <span className="archive-chevron">↓</span>
-            </summary>
-            <div className="archive-content">
-              <CollectionContent index={1} collClass="coll-1" />
-            </div>
-          </details>
-
-          <details className="archive-item">
-            <summary className="archive-summary">
-              <span className="archive-summary-title">AI & Research — Surveys & Theory</span>
-              <span className="archive-count">3 categories</span>
-              <span className="archive-chevron">↓</span>
-            </summary>
-            <div className="archive-content">
-              <CollectionContent index={2} collClass="coll-3" />
-            </div>
-          </details>
-
-          <details className="archive-item">
-            <summary className="archive-summary">
-              <span className="archive-summary-title">Honors, Teaching & Service</span>
-              <span className="archive-count">10 awards · 3 service</span>
-              <span className="archive-chevron">↓</span>
-            </summary>
-            <div className="archive-content">
-              <CollectionContent index={3} collClass="coll-4" />
-            </div>
-          </details>
-        </div>
-
-        {/* ── Publications ── */}
-        <section className="section wrap" id="publications">
-          <div className="section-head">
-            <p className="section-label">Publications</p>
-            <h2 className="section-title">Research contributions.</h2>
-          </div>
-          <div className="pub-list">
-            {PAPERS.map((p) => (
-              <a
-                key={p.title}
-                className="pub-item"
-                href={p.link}
-                target="_blank"
-                rel="noreferrer"
-              >
-                <span className="pub-year">{p.year}</span>
-                <div>
-                  <p className="pub-venue">{p.venue}</p>
-                  <p className="pub-title">{p.title}</p>
-                  <p className="pub-authors">{p.authors}</p>
-                </div>
-                <span className="pub-arrow">↗</span>
-              </a>
-            ))}
-          </div>
+          <a className="hero-cta" href="#about">Learn more ↓</a>
         </section>
 
         {/* ── About ── */}
@@ -427,6 +337,98 @@ export default function Home() {
             </div>
           </div>
         </section>
+
+        {/* ── Selected Work ── */}
+        <section className="section wrap" id="work">
+          <div className="section-head">
+            <p className="section-label">Selected work</p>
+            <h2 className="section-title">Research built into working systems.</h2>
+          </div>
+          <div className="project-grid">
+            {PROJECTS.map((p) => (
+              <ProjectCard key={p.title} p={p} />
+            ))}
+          </div>
+        </section>
+
+        {/* ── Publications ── */}
+        <section className="section wrap" id="publications">
+          <div className="section-head">
+            <p className="section-label">Publications</p>
+            <h2 className="section-title">Research contributions.</h2>
+          </div>
+          <div className="pub-list">
+            {PAPERS.map((p) => (
+              <a
+                key={p.title}
+                className="pub-item"
+                href={p.link}
+                target="_blank"
+                rel="noreferrer"
+              >
+                <span className="pub-year">{p.year}</span>
+                <div>
+                  <p className="pub-venue">{p.venue}</p>
+                  <p className="pub-title">{p.title}</p>
+                  <p className="pub-authors">{p.authors}</p>
+                </div>
+                <span className="pub-arrow">↗</span>
+              </a>
+            ))}
+          </div>
+        </section>
+
+        {/* ── Full Archive ── */}
+        <div className="archive-section wrap" id="archive">
+          <div className="archive-section-head">
+            <p className="section-label">Full project archive</p>
+          </div>
+
+          <details className="archive-item">
+            <summary className="archive-summary">
+              <span className="archive-summary-title">AI for Business — Applied Projects</span>
+              <span className="archive-count">10 projects</span>
+              <span className="archive-chevron">↓</span>
+            </summary>
+            <div className="archive-content">
+              <CollectionContent index={0} collClass="coll-0" />
+            </div>
+          </details>
+
+          <details className="archive-item">
+            <summary className="archive-summary">
+              <span className="archive-summary-title">Skill-Based Projects — Technical CS</span>
+              <span className="archive-count">5 categories</span>
+              <span className="archive-chevron">↓</span>
+            </summary>
+            <div className="archive-content">
+              <CollectionContent index={1} collClass="coll-1" />
+            </div>
+          </details>
+
+          <details className="archive-item">
+            <summary className="archive-summary">
+              <span className="archive-summary-title">AI & Research — Surveys & Theory</span>
+              <span className="archive-count">3 categories</span>
+              <span className="archive-chevron">↓</span>
+            </summary>
+            <div className="archive-content">
+              <CollectionContent index={2} collClass="coll-3" />
+            </div>
+          </details>
+
+          <details className="archive-item">
+            <summary className="archive-summary">
+              <span className="archive-summary-title">Honors, Teaching & Service</span>
+              <span className="archive-count">10 awards · 3 service</span>
+              <span className="archive-chevron">↓</span>
+            </summary>
+            <div className="archive-content">
+              <CollectionContent index={3} collClass="coll-4" />
+            </div>
+          </details>
+        </div>
+
       </main>
 
       <footer>
