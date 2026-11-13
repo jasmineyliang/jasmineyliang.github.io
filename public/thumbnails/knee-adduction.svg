@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="168" viewBox="0 0 240 168">
+  <rect width="240" height="168" fill="#f8f9fa"/>
+  <!-- Leg outline simplified -->
+  <!-- Upper leg -->
+  <rect x="72" y="12" width="34" height="68" rx="10" fill="none" stroke="#d1d5db" stroke-width="1.5"/>
+  <!-- Lower leg -->
+  <rect x="68" y="88" width="34" height="68" rx="8" fill="none" stroke="#d1d5db" stroke-width="1.5"/>
+  <!-- Knee joint highlight -->
+  <ellipse cx="89" cy="84" rx="22" ry="16" fill="#fef3c7" stroke="#f59e0b" stroke-width="1.5"/>
+  <text x="89" y="88" text-anchor="middle" font-family="system-ui" font-size="7" font-weight="700" fill="#92400e">Knee</text>
+  <!-- KAM force arrow (medial load) -->
+  <defs>
+    <marker id="arrowhead" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+      <polygon points="0 0, 8 4, 0 8" fill="#ef4444"/>
+    </marker>
+    <marker id="arrowhead2" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+      <polygon points="0 0, 8 4, 0 8" fill="#3b82f6"/>
+    </marker>
+  </defs>
+  <!-- Adduction moment arc -->
+  <path d="M50 68 Q40 84 50 100" fill="none" stroke="#ef4444" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <text x="20" y="86" font-family="system-ui" font-size="7.5" font-weight="700" fill="#ef4444">KAM</text>
+  <!-- Ground reaction force up -->
+  <line x1="89" y1="158" x2="89" y2="104" stroke="#3b82f6" stroke-width="2" marker-end="url(#arrowhead2)"/>
+  <text x="98" y="155" font-family="system-ui" font-size="7" fill="#3b82f6">GRF</text>
+  <!-- ML axis label -->
+  <line x1="30" y1="84" x2="150" y2="84" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="4,3"/>
+  <!-- Measurement panel -->
+  <rect x="148" y="14" width="80" height="80" rx="4" fill="white" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="188" y="29" text-anchor="middle" font-family="system-ui" font-size="8" font-weight="700" fill="#1e293b">KAM Estimation</text>
+  <!-- waveform -->
+  <path d="M155 60 Q162 44 169 60 Q176 76 183 60 Q190 44 197 60 Q204 76 211 60 Q218 44 222 55" fill="none" stroke="#ef4444" stroke-width="1.5"/>
+  <line x1="155" y1="60" x2="222" y2="60" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="188" y="80" text-anchor="middle" font-family="system-ui" font-size="7" fill="#6b7280">Gait Cycle</text>
+  <!-- IMU tag -->
+  <rect x="148" y="104" width="80" height="38" rx="4" fill="white" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="188" y="118" text-anchor="middle" font-family="system-ui" font-size="7" fill="#6b7280">IMU-based</text>
+  <text x="188" y="130" text-anchor="middle" font-family="system-ui" font-size="7.5" font-weight="700" fill="#0a6b65">No Force Plate</text>
+  <text x="188" y="140" text-anchor="middle" font-family="system-ui" font-size="7" fill="#6b7280">Required</text>
+</svg>

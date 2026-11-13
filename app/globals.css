@@ -62,16 +62,35 @@ img { display: block; max-width: 100%; }
 }
 .nav-cta:hover { background: var(--accent); color: white; }
 
+.nav-dropdown { position: relative; }
+.nav-dropdown-trigger { cursor: pointer; }
+.nav-dropdown-menu {
+  display: none;
+  position: absolute; top: calc(100% + 12px); right: 0;
+  background: var(--bg); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 6px 0;
+  min-width: 260px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+  z-index: 100;
+}
+.nav-dropdown:hover .nav-dropdown-menu { display: block; }
+.nav-dropdown-item {
+  display: block; padding: 9px 16px;
+  font-size: 13px; color: var(--fg) !important;
+  white-space: nowrap;
+}
+.nav-dropdown-item:hover { background: var(--muted-bg, #f5f5f3); color: var(--accent) !important; }
+
 /* ── Hero ── */
 .hero { padding: 72px 0 60px; border-bottom: 1px solid var(--border); }
 .hero-layout {
-  display: flex; align-items: center; gap: 48px;
+  display: flex; align-items: center; gap: 48px; max-width: 860px;
 }
 .hero-text { flex: 1; min-width: 0; }
 .hero-photo-col { flex-shrink: 0; }
 .hero-headshot {
-  width: 220px; height: 220px; border-radius: 12px; object-fit: cover;
-  border: 1px solid var(--border);
+  width: 200px; height: 283px; border-radius: 0; object-fit: cover;
+  object-position: top;
 }
 .hero-label {
   font-size: 12px; letter-spacing: 0.1em; color: var(--muted);
@@ -91,9 +110,9 @@ img { display: block; max-width: 100%; }
   font-size: 11px; font-weight: 700; letter-spacing: 0.1em;
   padding: 6px 14px; border-radius: 100px; text-transform: uppercase;
 }
-.chip-sim  { background: #dbeafe; color: #1e3a8a; }
-.chip-per  { background: #ede9fe; color: #4c1d95; }
-.chip-prod { background: #dcfce7; color: #14532d; }
+.chip-sim  { background: #1e293b; color: #f8fafc; }
+.chip-per  { background: #374151; color: #f9fafb; }
+.chip-prod { background: #f1f5f9; color: #0f172a; border: 1px solid #cbd5e1; }
 .hero-cta {
   display: inline-flex; align-items: center; gap: 8px;
   margin-top: 32px; font-size: 14px; color: var(--accent);
@@ -114,6 +133,18 @@ img { display: block; max-width: 100%; }
 .section-head { margin-bottom: 40px; }
 
 /* ── Project card grid ── */
+.project-category { margin-bottom: 48px; }
+.project-category:last-child { margin-bottom: 0; }
+.project-cat-label {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 16px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--border);
+}
 .project-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -132,9 +163,9 @@ img { display: block; max-width: 100%; }
   border-color: #c8c8c6;
 }
 .card-pillar { font-size: 11px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; }
-.pillar-sim  { color: #1e40af; }
-.pillar-per  { color: #5b21b6; }
-.pillar-prod { color: #15803d; }
+.pillar-sim  { color: #1e293b; }
+.pillar-per  { color: #374151; }
+.pillar-prod { color: #64748b; }
 .card-title { font-size: 19px; font-weight: 600; letter-spacing: -0.025em; line-height: 1.3; }
 .card-venue { font-size: 12px; color: var(--muted); margin-top: 2px; }
 .card-img-wrap {
@@ -205,9 +236,13 @@ img { display: block; max-width: 100%; }
 /* ── Publications ── */
 .pub-list { display: flex; flex-direction: column; }
 .pub-item {
-  display: grid; grid-template-columns: 60px 1fr 24px;
+  display: grid; grid-template-columns: 60px 80px 1fr 24px;
   gap: 16px; padding: 20px 0; border-top: 1px solid var(--border);
   align-items: start; cursor: pointer;
+}
+.pub-thumb {
+  width: 80px; height: 56px; object-fit: cover;
+  border-radius: 4px; border: 1px solid var(--border); display: block;
 }
 .pub-item:last-child { border-bottom: 1px solid var(--border); }
 .pub-year { font-size: 13px; color: var(--muted); padding-top: 3px; }
@@ -222,6 +257,26 @@ img { display: block; max-width: 100%; }
 .pub-item:hover .pub-title { text-decoration: underline; text-underline-offset: 3px; }
 .pub-authors { font-size: 13px; color: var(--muted); margin-top: 5px; }
 .pub-arrow { font-size: 18px; color: var(--muted); padding-top: 4px; }
+
+/* ── Compact project rows ── */
+.compact-project-list { display: flex; flex-direction: column; }
+.compact-project-row {
+  display: grid; grid-template-columns: 80px 1fr 24px;
+  gap: 16px; padding: 18px 0; border-top: 1px solid var(--border);
+  align-items: start; cursor: pointer;
+}
+.compact-project-row:last-child { border-bottom: 1px solid var(--border); }
+.compact-thumb {
+  width: 80px; height: 56px; object-fit: cover;
+  border-radius: 4px; border: 1px solid var(--border); display: block;
+}
+.compact-title {
+  font-size: 15px; font-weight: 500; line-height: 1.4; letter-spacing: -0.015em;
+}
+.compact-project-row:hover .compact-title { text-decoration: underline; text-underline-offset: 3px; }
+
+/* ── Honors section ── */
+.honors-cols { display: grid; grid-template-columns: 1.2fr 1fr; gap: 60px; }
 
 /* ── About ── */
 .about-grid { display: grid; grid-template-columns: 1.1fr 1fr; gap: 80px; }
@@ -271,10 +326,11 @@ footer { padding: 24px 0; }
 @media (max-width: 768px) {
   .wrap { width: calc(100% - 48px); }
   .nav-links { gap: 20px; }
-  .hero-headshot { width: 160px; height: 160px; }
+  .hero-headshot { width: 150px; height: 212px; }
   .project-grid { grid-template-columns: repeat(2, 1fr); gap: 16px; }
   .about-grid { grid-template-columns: 1fr; gap: 40px; }
-  .pub-item { grid-template-columns: 44px 1fr 18px; gap: 10px; }
+  .pub-item { grid-template-columns: 44px 64px 1fr 18px; gap: 10px; }
+  .pub-thumb { width: 64px; height: 44px; }
   .collection-grid { grid-template-columns: 1fr; gap: 24px; }
   .coll-1 .collection-group:last-child ul { columns: 1; }
 }
@@ -287,8 +343,9 @@ footer { padding: 24px 0; }
   .project-grid { grid-template-columns: 1fr; }
   .hero h1 { letter-spacing: -0.04em; }
   .hero-layout { flex-direction: column-reverse; align-items: flex-start; gap: 24px; }
-  .hero-headshot { width: 100px; height: 100px; }
+  .hero-headshot { width: 90px; height: 127px; }
   .pub-item { grid-template-columns: 36px 1fr; }
+  .pub-thumb { display: none; }
   .pub-arrow { display: none; }
 }
 

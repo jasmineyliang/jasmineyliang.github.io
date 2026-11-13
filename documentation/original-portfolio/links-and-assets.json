@@ -1,0 +1,2201 @@
+{
+  "source": "https://jasmineyliang.github.io/",
+  "captured": "2026-11-05",
+  "headings": [
+    {
+      "level": 1,
+      "title": "Jasmine Liang",
+      "id": null
+    },
+    {
+      "level": 2,
+      "title": "Selected Projects Driving Real-World Impact",
+      "id": "selected-projects-driving-real-world-impact"
+    },
+    {
+      "level": 3,
+      "title": "Pipeline for Text, Audio and Image, Multimodalities & Fine Tune LLM",
+      "id": "pipeline-for-text-audio-and-image-multimodalities--fine-tune-llm"
+    },
+    {
+      "level": 3,
+      "title": "Context-aware ChatPDF",
+      "id": "context-aware-chatpdf"
+    },
+    {
+      "level": 3,
+      "title": "Multimodal AI Applications with LangChain & OpenAI API",
+      "id": "multimodal-ai-applications-with-langchain--openai-api"
+    },
+    {
+      "level": 3,
+      "title": "Anomaly Detection for Failing Servers On Networks",
+      "id": "anomaly-detection-for-failing-servers-on-networks"
+    },
+    {
+      "level": 3,
+      "title": "Recommendation Systems",
+      "id": "recommendation-systems"
+    },
+    {
+      "level": 3,
+      "title": "3D Orientation Estimation by AHRS and Advanced Kalmar Filter with IMUs",
+      "id": "3d-orientation-estimation-by-ahrs-and-advanced-kalmar-filter-with-imus"
+    },
+    {
+      "level": 3,
+      "title": "AI Checker Game",
+      "id": "ai-checker-game"
+    },
+    {
+      "level": 3,
+      "title": "System for Enhancing Fair Judgement",
+      "id": "system-for-enhancing-fair-judgement"
+    },
+    {
+      "level": 3,
+      "title": "State Legislator Tweets Election Years",
+      "id": "state-legislator-tweets-election-years"
+    },
+    {
+      "level": 3,
+      "title": "Multi Omics Analysis Of Metabolic Genes Perturbations In Saccharomyces Cerevisiae",
+      "id": "multi-omics-analysis-of-metabolic-genes-perturbations-in-saccharomyces-cerevisiae"
+    },
+    {
+      "level": 2,
+      "title": "Technical Mastery and Problem Solving",
+      "id": "technical-mastery-and-problem-solving"
+    },
+    {
+      "level": 3,
+      "title": "Machine Learning",
+      "id": "machine-learning"
+    },
+    {
+      "level": 3,
+      "title": "Data Science and Database Application",
+      "id": "data-science-and-database-application"
+    },
+    {
+      "level": 3,
+      "title": "AWS/Cloud/Security and Privacy",
+      "id": "awscloudsecurity-and-privacy"
+    },
+    {
+      "level": 3,
+      "title": "Bioinformatics - Gene",
+      "id": "bioinformatics---gene"
+    },
+    {
+      "level": 3,
+      "title": "Object-Oriented Programming (OOP)",
+      "id": "object-oriented-programming-oop"
+    },
+    {
+      "level": 4,
+      "title": "Games",
+      "id": "games"
+    },
+    {
+      "level": 4,
+      "title": "Mini Projects",
+      "id": "mini-projects"
+    },
+    {
+      "level": 4,
+      "title": "Real-World Application",
+      "id": "real-world-application"
+    },
+    {
+      "level": 2,
+      "title": "Innovative Research and Insights",
+      "id": "innovative-research-and-insights"
+    },
+    {
+      "level": 3,
+      "title": "AI and Adversarial Example",
+      "id": "ai-and-adversarial-example"
+    },
+    {
+      "level": 3,
+      "title": "AI and Healthcare",
+      "id": "ai-and-healthcare"
+    },
+    {
+      "level": 3,
+      "title": "Algorithm and Computational Theory",
+      "id": "algorithm-and-computational-theory"
+    },
+    {
+      "level": 2,
+      "title": "Honors and Awards",
+      "id": "honors-and-awards"
+    },
+    {
+      "level": 3,
+      "title": "Achievements",
+      "id": "achievements"
+    },
+    {
+      "level": 3,
+      "title": "Leadership and Services",
+      "id": "leadership-and-services"
+    },
+    {
+      "level": 2,
+      "title": "Selective Papers",
+      "id": "selective-papers"
+    }
+  ],
+  "links": [
+    {
+      "section": "Jasmine Liang",
+      "label": "Jasmine Liang",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": false
+    },
+    {
+      "section": "Jasmine Liang",
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jypliang/",
+      "placeholder": false
+    },
+    {
+      "section": "Jasmine Liang",
+      "label": "GitHub",
+      "url": "https://github.com/jasmineyliang",
+      "placeholder": false
+    },
+    {
+      "section": "Jasmine Liang",
+      "label": "AI FOR BUSINESS",
+      "url": "https://jasmineyliang.github.io/#Impact",
+      "placeholder": false
+    },
+    {
+      "section": "Jasmine Liang",
+      "label": "SKILL-BASED PROJECTS",
+      "url": "https://jasmineyliang.github.io/#skill",
+      "placeholder": false
+    },
+    {
+      "section": "Jasmine Liang",
+      "label": "AI & RESEARCH",
+      "url": "https://jasmineyliang.github.io/#research",
+      "placeholder": false
+    },
+    {
+      "section": "Jasmine Liang",
+      "label": "HONORS & AWARDS",
+      "url": "https://jasmineyliang.github.io/#honor",
+      "placeholder": false
+    },
+    {
+      "section": "Jasmine Liang",
+      "label": "PAPERS",
+      "url": "https://jasmineyliang.github.io/#paper",
+      "placeholder": false
+    },
+    {
+      "section": "Pipeline for Text, Audio and Image, Multimodalities & Fine Tune LLM",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/train",
+      "placeholder": false
+    },
+    {
+      "section": "Pipeline for Text, Audio and Image, Multimodalities & Fine Tune LLM",
+      "label": "Piplines",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Pipeline for Text, Audio and Image, Multimodalities & Fine Tune LLM",
+      "label": "LLM",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Pipeline for Text, Audio and Image, Multimodalities & Fine Tune LLM",
+      "label": "MLLMs",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Pipeline for Text, Audio and Image, Multimodalities & Fine Tune LLM",
+      "label": "sentiment analysis",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Pipeline for Text, Audio and Image, Multimodalities & Fine Tune LLM",
+      "label": "Audio",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Pipeline for Text, Audio and Image, Multimodalities & Fine Tune LLM",
+      "label": "Text",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Pipeline for Text, Audio and Image, Multimodalities & Fine Tune LLM",
+      "label": "Multimodalities",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Pipeline for Text, Audio and Image, Multimodalities & Fine Tune LLM",
+      "label": "google vit base patch16 224",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Pipeline for Text, Audio and Image, Multimodalities & Fine Tune LLM",
+      "label": "BERT",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Context-aware ChatPDF",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/Context-aware_ChatPDF_Application",
+      "placeholder": false
+    },
+    {
+      "section": "Context-aware ChatPDF",
+      "label": "RAG",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Context-aware ChatPDF",
+      "label": "embeddings",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Context-aware ChatPDF",
+      "label": "Huggingface",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Context-aware ChatPDF",
+      "label": "LLM",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Context-aware ChatPDF",
+      "label": "context aware",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Context-aware ChatPDF",
+      "label": "chat engines",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Context-aware ChatPDF",
+      "label": "memory buffers",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Multimodal AI Applications with LangChain & OpenAI API",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/MLLM_langchain",
+      "placeholder": false
+    },
+    {
+      "section": "Multimodal AI Applications with LangChain & OpenAI API",
+      "label": "Multimodal",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Multimodal AI Applications with LangChain & OpenAI API",
+      "label": "LangChain",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Multimodal AI Applications with LangChain & OpenAI API",
+      "label": "OpenAI",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Multimodal AI Applications with LangChain & OpenAI API",
+      "label": "whisper",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Multimodal AI Applications with LangChain & OpenAI API",
+      "label": "speech to text AI",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Multimodal AI Applications with LangChain & OpenAI API",
+      "label": "chat engines",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Multimodal AI Applications with LangChain & OpenAI API",
+      "label": "AI agent",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Anomaly Detection for Failing Servers On Networks",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/recommendation_system",
+      "placeholder": false
+    },
+    {
+      "section": "Anomaly Detection for Failing Servers On Networks",
+      "label": "Python",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Anomaly Detection for Failing Servers On Networks",
+      "label": "Matlab",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Anomaly Detection for Failing Servers On Networks",
+      "label": "sklearn",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Anomaly Detection for Failing Servers On Networks",
+      "label": "Multivariate Gaussian",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Anomaly Detection for Failing Servers On Networks",
+      "label": "High Dimension",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Recommendation Systems",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/recommendation_system",
+      "placeholder": false
+    },
+    {
+      "section": "Recommendation Systems",
+      "label": "Python",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Recommendation Systems",
+      "label": "Matlab",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Recommendation Systems",
+      "label": "sklearn",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Recommendation Systems",
+      "label": "Collaborative Filtering",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Recommendation Systems",
+      "label": "Regularized Gradient",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "3D Orientation Estimation by AHRS and Advanced Kalmar Filter with IMUs",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/AHRS_sensor_fusion",
+      "placeholder": false
+    },
+    {
+      "section": "3D Orientation Estimation by AHRS and Advanced Kalmar Filter with IMUs",
+      "label": "MATLAB",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "AI Checker Game",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/AI-checker-proj",
+      "placeholder": false
+    },
+    {
+      "section": "AI Checker Game",
+      "label": "Java",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "AI Checker Game",
+      "label": "javascript",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "AI Checker Game",
+      "label": "Min Max",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "System for Enhancing Fair Judgement",
+      "label": "View Presentation",
+      "url": "https://github.com/jasmineyliang/pose_estimation/blob/main/575_final.pdf",
+      "placeholder": false
+    },
+    {
+      "section": "System for Enhancing Fair Judgement",
+      "label": "Python",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "System for Enhancing Fair Judgement",
+      "label": "OpenPose",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "System for Enhancing Fair Judgement",
+      "label": "sklearn",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "System for Enhancing Fair Judgement",
+      "label": "OpenCV",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "System for Enhancing Fair Judgement",
+      "label": "Caffe",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "State Legislator Tweets Election Years",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/state-legislator-tweets-election-years-proj",
+      "placeholder": false
+    },
+    {
+      "section": "State Legislator Tweets Election Years",
+      "label": "Java",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "State Legislator Tweets Election Years",
+      "label": "javascript",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "State Legislator Tweets Election Years",
+      "label": "SQL",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "State Legislator Tweets Election Years",
+      "label": "Tweeter",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "State Legislator Tweets Election Years",
+      "label": "JDBC",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Multi Omics Analysis Of Metabolic Genes Perturbations In Saccharomyces Cerevisiae",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/multi-omics-analysis-of-metabolic-genes-perturbations-in-saccharomyces-cerevisiae",
+      "placeholder": false
+    },
+    {
+      "section": "Multi Omics Analysis Of Metabolic Genes Perturbations In Saccharomyces Cerevisiae",
+      "label": "View Presentation",
+      "url": "https://github.com/jasmineyliang/multi-omics-analysis-of-metabolic-genes-perturbations-in-saccharomyces-cerevisiae/blob/main/project-presentation.pdf",
+      "placeholder": false
+    },
+    {
+      "section": "Multi Omics Analysis Of Metabolic Genes Perturbations In Saccharomyces Cerevisiae",
+      "label": "R",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Multi Omics Analysis Of Metabolic Genes Perturbations In Saccharomyces Cerevisiae",
+      "label": "GENIE3",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Multi Omics Analysis Of Metabolic Genes Perturbations In Saccharomyces Cerevisiae",
+      "label": "t SNE",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Multi Omics Analysis Of Metabolic Genes Perturbations In Saccharomyces Cerevisiae",
+      "label": "UMAP",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Multi Omics Analysis Of Metabolic Genes Perturbations In Saccharomyces Cerevisiae",
+      "label": "PCA",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Machine Learning",
+      "label": "Python",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Machine Learning",
+      "label": "javascript",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Machine Learning",
+      "label": "PyTorch",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Machine Learning",
+      "label": "Jupyter",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Machine Learning",
+      "label": "sklearn",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Machine Learning",
+      "label": "Scikit Optimize",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Machine Learning",
+      "label": "pandas",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Machine Learning",
+      "label": "NumPy",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Machine Learning",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/ml-architecture-proj",
+      "placeholder": false
+    },
+    {
+      "section": "Machine Learning",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/ml-NN-proj",
+      "placeholder": false
+    },
+    {
+      "section": "Machine Learning",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/ml-KKT-proj",
+      "placeholder": false
+    },
+    {
+      "section": "Machine Learning",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/ml-linear-classifier-fisher-proj",
+      "placeholder": false
+    },
+    {
+      "section": "Machine Learning",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/ml-learning-cruve-proj",
+      "placeholder": false
+    },
+    {
+      "section": "Machine Learning",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/ml-decision-tree-proj",
+      "placeholder": false
+    },
+    {
+      "section": "Machine Learning",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/ml-clustering-proj",
+      "placeholder": false
+    },
+    {
+      "section": "Machine Learning",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/ml-classifier-proj",
+      "placeholder": false
+    },
+    {
+      "section": "Machine Learning",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/ml-svm-proj",
+      "placeholder": false
+    },
+    {
+      "section": "Machine Learning",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/ml-perceptron-proj",
+      "placeholder": false
+    },
+    {
+      "section": "Data Science and Database Application",
+      "label": "Python",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "label": "Java",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "label": "PyTorch",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "label": "Jupyter",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "label": "sklearn",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "label": "javascript",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "label": "SQL",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "label": "XG Boost",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "label": "pandas",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "label": "NumPy",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "label": "seaborn",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "label": "SciPy",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/advanced-housing-price-prediction/blob/main/HousingCostPrediction_updated.ipynb",
+      "placeholder": false
+    },
+    {
+      "section": "Data Science and Database Application",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/fare-and-demand-simulation/blob/main/DemandPredict.ipynb",
+      "placeholder": false
+    },
+    {
+      "section": "Data Science and Database Application",
+      "label": "View Presentation",
+      "url": "https://github.com/jasmineyliang/fare-and-demand-simulation/blob/main/Presentation-GH.pdf",
+      "placeholder": false
+    },
+    {
+      "section": "Data Science and Database Application",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/dbms-design-proj-jdbc",
+      "placeholder": false
+    },
+    {
+      "section": "Data Science and Database Application",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/dbms-design-proj-jsp",
+      "placeholder": false
+    },
+    {
+      "section": "Data Science and Database Application",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/dbms-design-proj",
+      "placeholder": false
+    },
+    {
+      "section": "Data Science and Database Application",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/advanced-db-manage-research",
+      "placeholder": false
+    },
+    {
+      "section": "AWS/Cloud/Security and Privacy",
+      "label": "Java",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "AWS/Cloud/Security and Privacy",
+      "label": "AWS Elastic Load Balancing",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "AWS/Cloud/Security and Privacy",
+      "label": "Amazon S3",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "AWS/Cloud/Security and Privacy",
+      "label": "Amazon EC2",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "AWS/Cloud/Security and Privacy",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/applying-basic-cryptographic-primitives-for-secure-communication",
+      "placeholder": false
+    },
+    {
+      "section": "AWS/Cloud/Security and Privacy",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/aws-basic-services",
+      "placeholder": false
+    },
+    {
+      "section": "AWS/Cloud/Security and Privacy",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/aws-virtual-isolation-mechanisms",
+      "placeholder": false
+    },
+    {
+      "section": "AWS/Cloud/Security and Privacy",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/aws-basic-services",
+      "placeholder": false
+    },
+    {
+      "section": "Bioinformatics - Gene",
+      "label": "Python",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Bioinformatics - Gene",
+      "label": "R",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Bioinformatics - Gene",
+      "label": "GENIE3",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Bioinformatics - Gene",
+      "label": "t SNE",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Bioinformatics - Gene",
+      "label": "UMAP",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Bioinformatics - Gene",
+      "label": "PCA",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Bioinformatics - Gene",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/gene-network-analysis",
+      "placeholder": false
+    },
+    {
+      "section": "Bioinformatics - Gene",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/gene-data-reduction-for-visualization",
+      "placeholder": false
+    },
+    {
+      "section": "Bioinformatics - Gene",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/gene-dimension-reduction-pca",
+      "placeholder": false
+    },
+    {
+      "section": "Bioinformatics - Gene",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/gene-network-inference",
+      "placeholder": false
+    },
+    {
+      "section": "Bioinformatics - Gene",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/gene-ontology",
+      "placeholder": false
+    },
+    {
+      "section": "Bioinformatics - Gene",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/whole-cell-model-construction",
+      "placeholder": false
+    },
+    {
+      "section": "Bioinformatics - Gene",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/gene-network-dynamics",
+      "placeholder": false
+    },
+    {
+      "section": "Object-Oriented Programming (OOP)",
+      "label": "Java",
+      "url": "https://jasmineyliang.github.io/",
+      "placeholder": true
+    },
+    {
+      "section": "Games",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/OOP/tree/main/hw1",
+      "placeholder": false
+    },
+    {
+      "section": "Games",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/OOP/tree/main/hw2",
+      "placeholder": false
+    },
+    {
+      "section": "Games",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/OOP/tree/main/hw3",
+      "placeholder": false
+    },
+    {
+      "section": "Games",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/OOP/tree/main/hw4",
+      "placeholder": false
+    },
+    {
+      "section": "Mini Projects",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/OOP/tree/main/miniassignment1",
+      "placeholder": false
+    },
+    {
+      "section": "Mini Projects",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/OOP/tree/main/mini2",
+      "placeholder": false
+    },
+    {
+      "section": "Real-World Application",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/OOP/tree/main/project1",
+      "placeholder": false
+    },
+    {
+      "section": "Real-World Application",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/OOP/tree/main/project2",
+      "placeholder": false
+    },
+    {
+      "section": "Real-World Application",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/OOP/tree/main/project3",
+      "placeholder": false
+    },
+    {
+      "section": "Real-World Application",
+      "label": "View Code",
+      "url": "https://jasmineyliang.github.io/[https:/github.com/jasmineyliang/gene-network-analysis](https:/github.com/jasmineyliang/OOP/tree/main/project4)",
+      "placeholder": false
+    },
+    {
+      "section": "Real-World Application",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/OOP/tree/main/project5",
+      "placeholder": false
+    },
+    {
+      "section": "Real-World Application",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/OOP/tree/main/project6",
+      "placeholder": false
+    },
+    {
+      "section": "Real-World Application",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/OOP/tree/main/project7",
+      "placeholder": false
+    },
+    {
+      "section": "Real-World Application",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/OOP/tree/main/project8",
+      "placeholder": false
+    },
+    {
+      "section": "Real-World Application",
+      "label": "View Code",
+      "url": "https://github.com/jasmineyliang/OOP/tree/main/project10",
+      "placeholder": false
+    },
+    {
+      "section": "AI and Adversarial Example",
+      "label": "View Presentation",
+      "url": "https://github.com/jasmineyliang/ai-and-adversarial-example-proj/blob/main/first-presentation-of-ai-adversial-example.pdf",
+      "placeholder": false
+    },
+    {
+      "section": "AI and Adversarial Example",
+      "label": "View Presentation",
+      "url": "https://github.com/jasmineyliang/ai-and-adversarial-example-proj/blob/main/second-presentation-of-ai-adversial-example.pdf",
+      "placeholder": false
+    },
+    {
+      "section": "AI and Adversarial Example",
+      "label": "View Presentation",
+      "url": "https://github.com/jasmineyliang/ai-and-adversarial-example-proj/blob/main/final-project-presentation.pdf",
+      "placeholder": false
+    },
+    {
+      "section": "AI and Healthcare",
+      "label": "View Presentation",
+      "url": "https://github.com/jasmineyliang/cloud-computing-in-healthcare-and-privacy-survey-proj/blob/main/term-project-presentation.pdf",
+      "placeholder": false
+    },
+    {
+      "section": "AI and Healthcare",
+      "label": "View Presentation",
+      "url": "https://github.com/jasmineyliang/ml-imu-termproj/blob/main/ml-imu-termproj-presentation.pdf",
+      "placeholder": false
+    },
+    {
+      "section": "AI and Healthcare",
+      "label": "View Presentation",
+      "url": "https://github.com/jasmineyliang/situation-awareness-in-falling-prediction-and-prevention/blob/main/COMS610_final%20report.pdf",
+      "placeholder": false
+    },
+    {
+      "section": "AI and Healthcare",
+      "label": "View Presentation",
+      "url": "https://github.com/jasmineyliang/AI-survey-over-applications-of-patient-stroke",
+      "placeholder": false
+    },
+    {
+      "section": "Algorithm and Computational Theory",
+      "label": "View Work",
+      "url": "https://github.com/jasmineyliang/advanced-algorithms",
+      "placeholder": false
+    },
+    {
+      "section": "Algorithm and Computational Theory",
+      "label": "View Work",
+      "url": "https://github.com/jasmineyliang/theory-of-computation",
+      "placeholder": false
+    },
+    {
+      "section": "Achievements",
+      "label": "View Certificate",
+      "url": "https://www.parchment.com/u/award/881e90a1ae5a20c2808687ba639a15f3",
+      "placeholder": false
+    },
+    {
+      "section": "Leadership and Services",
+      "label": "View My Classroom",
+      "url": "https://classroom.github.com/classrooms/171609019-analytics-ai-health-strategies-jl-classroom",
+      "placeholder": false
+    },
+    {
+      "section": "Leadership and Services",
+      "label": "View My Classroom",
+      "url": "https://grader.mathworks.com/courses/109094",
+      "placeholder": false
+    },
+    {
+      "section": "Selective Papers",
+      "label": "Paper",
+      "url": "https://openreview.net/pdf?id=lWsDWnre2l",
+      "placeholder": false
+    },
+    {
+      "section": "Selective Papers",
+      "label": "Paper",
+      "url": "https://www.cambridge.org/core/journals/wearable-technologies/article/center-of-mass-acceleration-during-walking-comparison-between-imu-and-camerabased-motion-capture-methodologies/EE637BCC2EE3335D02A3600F05FFBF28",
+      "placeholder": false
+    },
+    {
+      "section": "Selective Papers",
+      "label": "Paper",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SnALrRkAAAAJ&sortby=pubdate&citation_for_view=SnALrRkAAAAJ:Tyk-4Ss8FVUC",
+      "placeholder": false
+    },
+    {
+      "section": "Selective Papers",
+      "label": "Paper",
+      "url": "https://www.worldscientific.com/doi/abs/10.1142/S2810958923300068",
+      "placeholder": false
+    },
+    {
+      "section": "Selective Papers",
+      "label": "Paper",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2950307824000286",
+      "placeholder": false
+    }
+  ],
+  "images": [
+    {
+      "section": "Jasmine Liang",
+      "alt": "Logo",
+      "url": "https://jasmineyliang.github.io/images/20231007_160933496_iOS%20copy.jpg?raw=true",
+      "badge": false
+    },
+    {
+      "section": "Pipeline for Text, Audio and Image, Multimodalities & Fine Tune LLM",
+      "alt": "",
+      "url": "https://jasmineyliang.github.io/images/a2.jpeg?raw=true",
+      "badge": false
+    },
+    {
+      "section": "Pipeline for Text, Audio and Image, Multimodalities & Fine Tune LLM",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Pipeline for Text, Audio and Image, Multimodalities & Fine Tune LLM",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Piplines-white?&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "Pipeline for Text, Audio and Image, Multimodalities & Fine Tune LLM",
+      "alt": "",
+      "url": "https://img.shields.io/badge/LLM-white?&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "Pipeline for Text, Audio and Image, Multimodalities & Fine Tune LLM",
+      "alt": "",
+      "url": "https://img.shields.io/badge/MLLMs-white?&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "Pipeline for Text, Audio and Image, Multimodalities & Fine Tune LLM",
+      "alt": "",
+      "url": "https://img.shields.io/badge/sentiment_analysis-white?&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "Pipeline for Text, Audio and Image, Multimodalities & Fine Tune LLM",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Audio-white?&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "Pipeline for Text, Audio and Image, Multimodalities & Fine Tune LLM",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Text-white?&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "Pipeline for Text, Audio and Image, Multimodalities & Fine Tune LLM",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Multimodalities-white?&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "Pipeline for Text, Audio and Image, Multimodalities & Fine Tune LLM",
+      "alt": "",
+      "url": "https://img.shields.io/badge/google_vit_base_patch16_224-white?&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "Pipeline for Text, Audio and Image, Multimodalities & Fine Tune LLM",
+      "alt": "",
+      "url": "https://img.shields.io/badge/BERT-white?&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "Context-aware ChatPDF",
+      "alt": "",
+      "url": "https://jasmineyliang.github.io/images/a1.jpg?raw=true",
+      "badge": false
+    },
+    {
+      "section": "Context-aware ChatPDF",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Context-aware ChatPDF",
+      "alt": "",
+      "url": "https://img.shields.io/badge/RAG-white?&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "Context-aware ChatPDF",
+      "alt": "",
+      "url": "https://img.shields.io/badge/embeddings-white?&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "Context-aware ChatPDF",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Huggingface-white?&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "Context-aware ChatPDF",
+      "alt": "",
+      "url": "https://img.shields.io/badge/LLM-white?&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "Context-aware ChatPDF",
+      "alt": "",
+      "url": "https://img.shields.io/badge/context_aware-white?&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "Context-aware ChatPDF",
+      "alt": "",
+      "url": "https://img.shields.io/badge/chat_engines-white?&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "Context-aware ChatPDF",
+      "alt": "",
+      "url": "https://img.shields.io/badge/memory_buffers-white?&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "Multimodal AI Applications with LangChain & OpenAI API",
+      "alt": "",
+      "url": "https://jasmineyliang.github.io/images/p3.png?raw=true",
+      "badge": false
+    },
+    {
+      "section": "Multimodal AI Applications with LangChain & OpenAI API",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Multimodal AI Applications with LangChain & OpenAI API",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Multimodal-white?&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "Multimodal AI Applications with LangChain & OpenAI API",
+      "alt": "",
+      "url": "https://img.shields.io/badge/LangChain-white?&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "Multimodal AI Applications with LangChain & OpenAI API",
+      "alt": "",
+      "url": "https://img.shields.io/badge/OpenAI-white?&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "Multimodal AI Applications with LangChain & OpenAI API",
+      "alt": "",
+      "url": "https://img.shields.io/badge/whisper-white?&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "Multimodal AI Applications with LangChain & OpenAI API",
+      "alt": "",
+      "url": "https://img.shields.io/badge/speech_to_text_AI-white?&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "Multimodal AI Applications with LangChain & OpenAI API",
+      "alt": "",
+      "url": "https://img.shields.io/badge/chat_engines-white?&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "Multimodal AI Applications with LangChain & OpenAI API",
+      "alt": "",
+      "url": "https://img.shields.io/badge/AI_agent-white?&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "Anomaly Detection for Failing Servers On Networks",
+      "alt": "",
+      "url": "https://jasmineyliang.github.io/images/server2.png?raw=true",
+      "badge": false
+    },
+    {
+      "section": "Anomaly Detection for Failing Servers On Networks",
+      "alt": "",
+      "url": "https://jasmineyliang.github.io/images/server1.png?raw=true",
+      "badge": false
+    },
+    {
+      "section": "Anomaly Detection for Failing Servers On Networks",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Anomaly Detection for Failing Servers On Networks",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Python-white?logo=Python",
+      "badge": true
+    },
+    {
+      "section": "Anomaly Detection for Failing Servers On Networks",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Matlab-white?logo=wolframmathematica&logoColor=%23DD1100",
+      "badge": true
+    },
+    {
+      "section": "Anomaly Detection for Failing Servers On Networks",
+      "alt": "",
+      "url": "https://img.shields.io/badge/sklearn-white?logo=scikitlearn&logoColor=%23F7931E",
+      "badge": true
+    },
+    {
+      "section": "Anomaly Detection for Failing Servers On Networks",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Multivariate_Gaussian-white?logo=scikitlearn&logoColor=%23F7931E",
+      "badge": true
+    },
+    {
+      "section": "Anomaly Detection for Failing Servers On Networks",
+      "alt": "",
+      "url": "https://img.shields.io/badge/High_Dimension-white?logo=scikitlearn&logoColor=%23F7931E",
+      "badge": true
+    },
+    {
+      "section": "Recommendation Systems",
+      "alt": "",
+      "url": "https://jasmineyliang.github.io/images/RS1.png?raw=true",
+      "badge": false
+    },
+    {
+      "section": "Recommendation Systems",
+      "alt": "",
+      "url": "https://jasmineyliang.github.io/images/RS2.png?raw=true",
+      "badge": false
+    },
+    {
+      "section": "Recommendation Systems",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Recommendation Systems",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Python-white?logo=Python",
+      "badge": true
+    },
+    {
+      "section": "Recommendation Systems",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Matlab-white?logo=wolframmathematica&logoColor=%23DD1100",
+      "badge": true
+    },
+    {
+      "section": "Recommendation Systems",
+      "alt": "",
+      "url": "https://img.shields.io/badge/sklearn-white?logo=scikitlearn&logoColor=%23F7931E",
+      "badge": true
+    },
+    {
+      "section": "Recommendation Systems",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Collaborative_Filtering-white?logo=scikitlearn&logoColor=%23F7931E",
+      "badge": true
+    },
+    {
+      "section": "Recommendation Systems",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Regularized_Gradient-white?logo=scikitlearn&logoColor=%23F7931E",
+      "badge": true
+    },
+    {
+      "section": "3D Orientation Estimation by AHRS and Advanced Kalmar Filter with IMUs",
+      "alt": "",
+      "url": "https://github.com/jasmineyliang/AHRS_sensor_fusion/blob/main/AHRS.jpg?raw=true",
+      "badge": false
+    },
+    {
+      "section": "3D Orientation Estimation by AHRS and Advanced Kalmar Filter with IMUs",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "3D Orientation Estimation by AHRS and Advanced Kalmar Filter with IMUs",
+      "alt": "",
+      "url": "https://img.shields.io/badge/MATLAB-white?&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "AI Checker Game",
+      "alt": "",
+      "url": "https://jasmineyliang.github.io/images/checker1.png?raw=true",
+      "badge": false
+    },
+    {
+      "section": "AI Checker Game",
+      "alt": "",
+      "url": "https://jasmineyliang.github.io/images/checker2.png?raw=true",
+      "badge": false
+    },
+    {
+      "section": "AI Checker Game",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "AI Checker Game",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Java-white?logo=eclipseide&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "AI Checker Game",
+      "alt": "",
+      "url": "https://img.shields.io/badge/javascript-white?logo=javascript&logoColor=%23F7DF1E",
+      "badge": true
+    },
+    {
+      "section": "AI Checker Game",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Min_Max-white?&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "System for Enhancing Fair Judgement",
+      "alt": "",
+      "url": "https://jasmineyliang.github.io/images/G1.avif?raw=true",
+      "badge": false
+    },
+    {
+      "section": "System for Enhancing Fair Judgement",
+      "alt": "",
+      "url": "https://jasmineyliang.github.io/images/pose1.png?raw=true",
+      "badge": false
+    },
+    {
+      "section": "System for Enhancing Fair Judgement",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000",
+      "badge": true
+    },
+    {
+      "section": "System for Enhancing Fair Judgement",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Python-white?logo=Python",
+      "badge": true
+    },
+    {
+      "section": "System for Enhancing Fair Judgement",
+      "alt": "",
+      "url": "https://img.shields.io/badge/OpenPose-white?logo=opensourceinitiative&logoColor=%233DA639",
+      "badge": true
+    },
+    {
+      "section": "System for Enhancing Fair Judgement",
+      "alt": "",
+      "url": "https://img.shields.io/badge/sklearn-white?logo=scikitlearn&logoColor=%23F7931E",
+      "badge": true
+    },
+    {
+      "section": "System for Enhancing Fair Judgement",
+      "alt": "",
+      "url": "https://img.shields.io/badge/OpenCV-white?logo=opencv&logoColor=%235C3EE8",
+      "badge": true
+    },
+    {
+      "section": "System for Enhancing Fair Judgement",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Caffe-white",
+      "badge": true
+    },
+    {
+      "section": "State Legislator Tweets Election Years",
+      "alt": "",
+      "url": "https://jasmineyliang.github.io/images/l1.png?raw=true",
+      "badge": false
+    },
+    {
+      "section": "State Legislator Tweets Election Years",
+      "alt": "",
+      "url": "https://jasmineyliang.github.io/images/l2.png?raw=true",
+      "badge": false
+    },
+    {
+      "section": "State Legislator Tweets Election Years",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "State Legislator Tweets Election Years",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Java-white?logo=eclipseide&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "State Legislator Tweets Election Years",
+      "alt": "",
+      "url": "https://img.shields.io/badge/javascript-white?logo=javascript&logoColor=%23F7DF1E",
+      "badge": true
+    },
+    {
+      "section": "State Legislator Tweets Election Years",
+      "alt": "",
+      "url": "https://img.shields.io/badge/SQL-white?logo=mysql&logoColor=%234479A1",
+      "badge": true
+    },
+    {
+      "section": "State Legislator Tweets Election Years",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Tweeter-white?logo=x&logoColor=%23000000",
+      "badge": true
+    },
+    {
+      "section": "State Legislator Tweets Election Years",
+      "alt": "",
+      "url": "https://img.shields.io/badge/JDBC-white?logo=eclipseide&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "Multi Omics Analysis Of Metabolic Genes Perturbations In Saccharomyces Cerevisiae",
+      "alt": "",
+      "url": "https://jasmineyliang.github.io/images/g1.jpg?raw=true",
+      "badge": false
+    },
+    {
+      "section": "Multi Omics Analysis Of Metabolic Genes Perturbations In Saccharomyces Cerevisiae",
+      "alt": "",
+      "url": "https://github.com/jasmineyliang/multi-omics-analysis-of-metabolic-genes-perturbations-in-saccharomyces-cerevisiae/blob/main/plot/TSNE_6.png?raw=true",
+      "badge": false
+    },
+    {
+      "section": "Multi Omics Analysis Of Metabolic Genes Perturbations In Saccharomyces Cerevisiae",
+      "alt": "",
+      "url": "https://github.com/jasmineyliang/multi-omics-analysis-of-metabolic-genes-perturbations-in-saccharomyces-cerevisiae/blob/main/plot/UMAP.png?raw=true",
+      "badge": false
+    },
+    {
+      "section": "Multi Omics Analysis Of Metabolic Genes Perturbations In Saccharomyces Cerevisiae",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Multi Omics Analysis Of Metabolic Genes Perturbations In Saccharomyces Cerevisiae",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000",
+      "badge": true
+    },
+    {
+      "section": "Multi Omics Analysis Of Metabolic Genes Perturbations In Saccharomyces Cerevisiae",
+      "alt": "",
+      "url": "https://img.shields.io/badge/R-white?logo=r&logoColor=%23276DC3",
+      "badge": true
+    },
+    {
+      "section": "Multi Omics Analysis Of Metabolic Genes Perturbations In Saccharomyces Cerevisiae",
+      "alt": "",
+      "url": "https://img.shields.io/badge/GENIE3-white?logo=r&logoColor=%23276DC3",
+      "badge": true
+    },
+    {
+      "section": "Multi Omics Analysis Of Metabolic Genes Perturbations In Saccharomyces Cerevisiae",
+      "alt": "",
+      "url": "https://img.shields.io/badge/t_SNE-white?logo=r&logoColor=%23276DC3",
+      "badge": true
+    },
+    {
+      "section": "Multi Omics Analysis Of Metabolic Genes Perturbations In Saccharomyces Cerevisiae",
+      "alt": "",
+      "url": "https://img.shields.io/badge/UMAP-white?logo=r&logoColor=%23276DC3",
+      "badge": true
+    },
+    {
+      "section": "Multi Omics Analysis Of Metabolic Genes Perturbations In Saccharomyces Cerevisiae",
+      "alt": "",
+      "url": "https://img.shields.io/badge/PCA-white?logo=r&logoColor=%23276DC3",
+      "badge": true
+    },
+    {
+      "section": "Machine Learning",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Python-white?logo=Python",
+      "badge": true
+    },
+    {
+      "section": "Machine Learning",
+      "alt": "",
+      "url": "https://img.shields.io/badge/javascript-white?logo=javascript&logoColor=%23F7DF1E",
+      "badge": true
+    },
+    {
+      "section": "Machine Learning",
+      "alt": "",
+      "url": "https://img.shields.io/badge/PyTorch-white?logo=pytorch",
+      "badge": true
+    },
+    {
+      "section": "Machine Learning",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Jupyter-white?logo=Jupyter",
+      "badge": true
+    },
+    {
+      "section": "Machine Learning",
+      "alt": "",
+      "url": "https://img.shields.io/badge/sklearn-white?logo=scikit-learn",
+      "badge": true
+    },
+    {
+      "section": "Machine Learning",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Scikit%20Optimize-white?logo=data:image/png;base64,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",
+      "badge": true
+    },
+    {
+      "section": "Machine Learning",
+      "alt": "",
+      "url": "https://img.shields.io/badge/pandas-white?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMIAAAEDCAMAAABQ/CumAAAAeFBMVEX///8TB1QAAEb/ygDnBIgPAFLNzNYTAFnQ0NgMAFcAAETb2eP39/oUBlfV1N7/xwDmAID/9tfLydcjG17/4Yz//vbCwM3ykcL61OfoBIwyKmgAADYAAE0AAErx8PTIxdT/+un/34T85/Lyir/lAHv50eX+9fkpH2Ma8J+4AAACEklEQVR4nO3dzVIaQRSAUYNCEIGoiYmJivnP+79hFrmLVHELZ6pnmG483xqaPruh5lb32ZkkSZIkSZIkvb52z7dZU2+rT4uH2X6rx6m31afF7M1+87dTb6tPCDWEUEMINYRQQ5MS1tu0nqtMSrhKn26e1v1WmZawyn58g4DQL4QIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECOFA6cvM5a4nYb29yjoO4WmVvM58WPQkbF8e+RqPcDlPVp4t+xLS/W0QEBCqI8yTLpsizN8n/WmJ0CEEBAQEBAQEBIT2CF+/fci6a4hw8y7rvC3CeRYCAgICAgICAgICAgICwlCEtJYIdzdp/3+kdkKHToFQ+RjJMCEcCKF7CAdC6B7CgRC6Nylh9zGtJUJ6uNCsnsOFhhkvPAHC9x+fsloi/Pp5nXTREuH++iLpMwICAgICAgICAgICAgKC/87R7/u0lggdQkBAQEBAQEB4dYQON67UTqh9KuwkDlRBQED4R8gOF5o3Rdh8yepLGO0ez6MNPO+WQ9w3NilhvBAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyEKJt+lL0SNeADUR4TG9cGWXHew10AkPP4aRBO9ohEuOFUEMINYRQQwg1dAKEDvd41t5t2u7lL0qSJEmSJEnSyfUXeomSFq0EzbkAAAAASUVORK5CYII=",
+      "badge": true
+    },
+    {
+      "section": "Machine Learning",
+      "alt": "",
+      "url": "https://img.shields.io/badge/NumPy-white?logo=data:image/png;base64,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",
+      "badge": true
+    },
+    {
+      "section": "Machine Learning",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Machine Learning",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Machine Learning",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Machine Learning",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Machine Learning",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Machine Learning",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Machine Learning",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Machine Learning",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Machine Learning",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Machine Learning",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Python-white?logo=Python",
+      "badge": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Java-white?logo=eclipseide&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/PyTorch-white?logo=pytorch",
+      "badge": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Jupyter-white?logo=Jupyter",
+      "badge": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/sklearn-white?logo=scikit-learn",
+      "badge": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/javascript-white?logo=javascript&logoColor=%23F7DF1E",
+      "badge": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/SQL-white?logo=mysql&logoColor=%234479A1",
+      "badge": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/XG_Boost-white?logo=scikit-learn",
+      "badge": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/pandas-white?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMIAAAEDCAMAAABQ/CumAAAAeFBMVEX///8TB1QAAEb/ygDnBIgPAFLNzNYTAFnQ0NgMAFcAAETb2eP39/oUBlfV1N7/xwDmAID/9tfLydcjG17/4Yz//vbCwM3ykcL61OfoBIwyKmgAADYAAE0AAErx8PTIxdT/+un/34T85/Lyir/lAHv50eX+9fkpH2Ma8J+4AAACEklEQVR4nO3dzVIaQRSAUYNCEIGoiYmJivnP+79hFrmLVHELZ6pnmG483xqaPruh5lb32ZkkSZIkSZIkvb52z7dZU2+rT4uH2X6rx6m31afF7M1+87dTb6tPCDWEUEMINYRQQ5MS1tu0nqtMSrhKn26e1v1WmZawyn58g4DQL4QIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECOFA6cvM5a4nYb29yjoO4WmVvM58WPQkbF8e+RqPcDlPVp4t+xLS/W0QEBCqI8yTLpsizN8n/WmJ0CEEBAQEBAQEBIT2CF+/fci6a4hw8y7rvC3CeRYCAgICAgICAgICAgICwlCEtJYIdzdp/3+kdkKHToFQ+RjJMCEcCKF7CAdC6B7CgRC6Nylh9zGtJUJ6uNCsnsOFhhkvPAHC9x+fsloi/Pp5nXTREuH++iLpMwICAgICAgICAgICAgKC/87R7/u0lggdQkBAQEBAQEB4dYQON67UTqh9KuwkDlRBQED4R8gOF5o3Rdh8yepLGO0ez6MNPO+WQ9w3NilhvBAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyEKJt+lL0SNeADUR4TG9cGWXHew10AkPP4aRBO9ohEuOFUEMINYRQQwg1dAKEDvd41t5t2u7lL0qSJEmSJEnSyfUXeomSFq0EzbkAAAAASUVORK5CYII=",
+      "badge": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/NumPy-white?logo=data:image/png;base64,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",
+      "badge": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/seaborn-white?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMIAAAEDCAMAAABQ/CumAAAAeFBMVEX///8TB1QAAEb/ygDnBIgPAFLNzNYTAFnQ0NgMAFcAAETb2eP39/oUBlfV1N7/xwDmAID/9tfLydcjG17/4Yz//vbCwM3ykcL61OfoBIwyKmgAADYAAE0AAErx8PTIxdT/+un/34T85/Lyir/lAHv50eX+9fkpH2Ma8J+4AAACEklEQVR4nO3dzVIaQRSAUYNCEIGoiYmJivnP+79hFrmLVHELZ6pnmG483xqaPruh5lb32ZkkSZIkSZIkvb52z7dZU2+rT4uH2X6rx6m31afF7M1+87dTb6tPCDWEUEMINYRQQ5MS1tu0nqtMSrhKn26e1v1WmZawyn58g4DQL4QIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECOFA6cvM5a4nYb29yjoO4WmVvM58WPQkbF8e+RqPcDlPVp4t+xLS/W0QEBCqI8yTLpsizN8n/WmJ0CEEBAQEBAQEBIT2CF+/fci6a4hw8y7rvC3CeRYCAgICAgICAgICAgICwlCEtJYIdzdp/3+kdkKHToFQ+RjJMCEcCKF7CAdC6B7CgRC6Nylh9zGtJUJ6uNCsnsOFhhkvPAHC9x+fsloi/Pp5nXTREuH++iLpMwICAgICAgICAgICAgKC/87R7/u0lggdQkBAQEBAQEB4dYQON67UTqh9KuwkDlRBQED4R8gOF5o3Rdh8yepLGO0ez6MNPO+WQ9w3NilhvBAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyEKJt+lL0SNeADUR4TG9cGWXHew10AkPP4aRBO9ohEuOFUEMINYRQQwg1dAKEDvd41t5t2u7lL0qSJEmSJEnSyfUXeomSFq0EzbkAAAAASUVORK5CYII=",
+      "badge": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/SciPy-white?logo=data:image/png;base64,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",
+      "badge": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000",
+      "badge": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Data Science and Database Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "AWS/Cloud/Security and Privacy",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Java-white?logo=eclipseide&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "AWS/Cloud/Security and Privacy",
+      "alt": "",
+      "url": "https://img.shields.io/badge/AWS_Elastic_Load_Balancing-white?logo=awselasticloadbalancing&logoColor=#8C4FFF",
+      "badge": true
+    },
+    {
+      "section": "AWS/Cloud/Security and Privacy",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Amazon_S3-white?logo=amazons3&logoColor=#569A31",
+      "badge": true
+    },
+    {
+      "section": "AWS/Cloud/Security and Privacy",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Amazon_EC2-white?logo=amazonec2&logoColor=#FF9900",
+      "badge": true
+    },
+    {
+      "section": "AWS/Cloud/Security and Privacy",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "AWS/Cloud/Security and Privacy",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "AWS/Cloud/Security and Privacy",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "AWS/Cloud/Security and Privacy",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Bioinformatics - Gene",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Python-white?logo=Python",
+      "badge": true
+    },
+    {
+      "section": "Bioinformatics - Gene",
+      "alt": "",
+      "url": "https://img.shields.io/badge/R-white?logo=r&logoColor=%23276DC3",
+      "badge": true
+    },
+    {
+      "section": "Bioinformatics - Gene",
+      "alt": "",
+      "url": "https://img.shields.io/badge/GENIE3-white?logo=r&logoColor=%23276DC3",
+      "badge": true
+    },
+    {
+      "section": "Bioinformatics - Gene",
+      "alt": "",
+      "url": "https://img.shields.io/badge/t_SNE-white?logo=r&logoColor=%23276DC3",
+      "badge": true
+    },
+    {
+      "section": "Bioinformatics - Gene",
+      "alt": "",
+      "url": "https://img.shields.io/badge/UMAP-white?logo=r&logoColor=%23276DC3",
+      "badge": true
+    },
+    {
+      "section": "Bioinformatics - Gene",
+      "alt": "",
+      "url": "https://img.shields.io/badge/PCA-white?logo=r&logoColor=%23276DC3",
+      "badge": true
+    },
+    {
+      "section": "Bioinformatics - Gene",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Bioinformatics - Gene",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Bioinformatics - Gene",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Bioinformatics - Gene",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Bioinformatics - Gene",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Bioinformatics - Gene",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Bioinformatics - Gene",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Object-Oriented Programming (OOP)",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Java-white?logo=eclipseide&logoColor=%232C2255",
+      "badge": true
+    },
+    {
+      "section": "Games",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Games",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Games",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Games",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Mini Projects",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Mini Projects",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Real-World Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Real-World Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Real-World Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Real-World Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Real-World Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Real-World Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Real-World Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Real-World Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Real-World Application",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Code-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "AI and Adversarial Example",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000",
+      "badge": true
+    },
+    {
+      "section": "AI and Adversarial Example",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000",
+      "badge": true
+    },
+    {
+      "section": "AI and Adversarial Example",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000",
+      "badge": true
+    },
+    {
+      "section": "AI and Healthcare",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000",
+      "badge": true
+    },
+    {
+      "section": "AI and Healthcare",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000",
+      "badge": true
+    },
+    {
+      "section": "AI and Healthcare",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000",
+      "badge": true
+    },
+    {
+      "section": "AI and Healthcare",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Presentation-white?logo=airplayvideo&logoColor=%23000000",
+      "badge": true
+    },
+    {
+      "section": "Algorithm and Computational Theory",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Work-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Algorithm and Computational Theory",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Work-white?logo=github&logoColor=%23181717",
+      "badge": true
+    },
+    {
+      "section": "Achievements",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_Certificate-white?logo=airplayvideo&logoColor=%23000000",
+      "badge": true
+    },
+    {
+      "section": "Leadership and Services",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_My_Classroom-white?logo=airplayvideo&logoColor=%23000000",
+      "badge": true
+    },
+    {
+      "section": "Leadership and Services",
+      "alt": "",
+      "url": "https://img.shields.io/badge/View_My_Classroom-white?logo=airplayvideo&logoColor=%23000000",
+      "badge": true
+    },
+    {
+      "section": "Selective Papers",
+      "alt": "",
+      "url": "https://jasmineyliang.github.io/images/Screenshot 1.png?raw=true",
+      "badge": false
+    },
+    {
+      "section": "Selective Papers",
+      "alt": "",
+      "url": "https://jasmineyliang.github.io/images/Screenshot 2.png?raw=true",
+      "badge": false
+    },
+    {
+      "section": "Selective Papers",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Paper-white",
+      "badge": true
+    },
+    {
+      "section": "Selective Papers",
+      "alt": "",
+      "url": "https://jasmineyliang.github.io/images/p2.png?raw=true",
+      "badge": false
+    },
+    {
+      "section": "Selective Papers",
+      "alt": "",
+      "url": "https://jasmineyliang.github.io/images/p2_1.png?raw=true",
+      "badge": false
+    },
+    {
+      "section": "Selective Papers",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Paper-white",
+      "badge": true
+    },
+    {
+      "section": "Selective Papers",
+      "alt": "",
+      "url": "https://jasmineyliang.github.io/images/k1.jpeg?raw=true",
+      "badge": false
+    },
+    {
+      "section": "Selective Papers",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Paper-white",
+      "badge": true
+    },
+    {
+      "section": "Selective Papers",
+      "alt": "",
+      "url": "https://jasmineyliang.github.io/images/r1.jpeg?raw=true",
+      "badge": false
+    },
+    {
+      "section": "Selective Papers",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Paper-white",
+      "badge": true
+    },
+    {
+      "section": "Selective Papers",
+      "alt": "",
+      "url": "https://jasmineyliang.github.io/images/e2.jpeg?raw=true",
+      "badge": false
+    },
+    {
+      "section": "Selective Papers",
+      "alt": "",
+      "url": "https://img.shields.io/badge/Paper-white",
+      "badge": true
+    }
+  ]
+}

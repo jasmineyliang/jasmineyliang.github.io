@@ -1,0 +1,30 @@
+{
+  "mode": "Built-in image_gen",
+  "purpose": "Conceptual illustrations; not original paper figures or measured results",
+  "images": [
+    {
+      "name": "apl-transistor-thermal",
+      "prompt": "Use case: scientific-educational. Asset: conceptual research portfolio thumbnail, not an actual experimental result. Cross-section diagram of a field-effect transistor with a thermal heat map overlay, blue-to-red color gradient showing temperature distribution. White background, clean polished academic illustration, restrained blue/teal palette except requested heatmap colors. No text, no labels, no numbers, no watermark. Landscape 16:9 composition, ideally 1024×576 or another 16:9 size. One standalone illustration, not a collage of separate panels."
+    },
+    {
+      "name": "pinn-phonon",
+      "prompt": "Use case: scientific-educational. Asset: conceptual research portfolio thumbnail, not an actual experimental result. Physics-informed neural network schematic connected to a phonon transport simulation showing heat wave propagation in a crystal lattice, cool blue and teal tones. White background, clean polished academic illustration, restrained blue/teal palette except requested heatmap colors. No text, no labels, no numbers, no watermark. Landscape 16:9 composition, ideally 1024×576 or another 16:9 size. One standalone illustration, not a collage of separate panels."
+    },
+    {
+      "name": "com-walking",
+      "prompt": "Use case: scientific-educational. Asset: conceptual research portfolio thumbnail, not an actual experimental result. Side-view gait analysis diagram showing a human walking silhouette with a center-of-mass trajectory curve, IMU sensor icon on the waist versus a motion capture camera. White background, clean polished academic illustration, restrained blue/teal palette except requested heatmap colors. No text, no labels, no numbers, no watermark. Landscape 16:9 composition, ideally 1024×576 or another 16:9 size. One standalone illustration, not a collage of separate panels."
+    },
+    {
+      "name": "gait-imu-review",
+      "prompt": "Use case: scientific-educational. Asset: conceptual research portfolio thumbnail, not an actual experimental result. Human body diagram with inertial measurement unit sensors placed at head, chest, lower back and ankle, sensor data signals overlaid, clean clinical illustration style, minimal color palette. White background, clean polished academic illustration, restrained blue/teal palette except requested heatmap colors. No text, no labels, no numbers, no watermark. Landscape 16:9 composition, ideally 1024×576 or another 16:9 size. One standalone illustration, not a collage of separate panels."
+    },
+    {
+      "name": "steadi-fall-risk",
+      "prompt": "Use case: scientific-educational. Asset: conceptual research portfolio thumbnail, not an actual experimental result. Elderly person performing a standing balance test with one leg raised, an IMU sensor on the lower back, a subtle sway path arc below feet, clinical assessment visual style. White background, clean polished academic illustration, restrained blue/teal palette except requested heatmap colors. No text, no labels, no numbers, no watermark. Landscape 16:9 composition, ideally 1024×576 or another 16:9 size. One standalone illustration, not a collage of separate panels."
+    },
+    {
+      "name": "knee-adduction-moment",
+      "prompt": "Use case: scientific-educational. Asset: conceptual research portfolio thumbnail, not an actual experimental result. Biomechanics diagram of a knee joint during walking with a knee adduction moment force arrow, ground reaction force vector, and a small waveform graph, clean orthopedic illustration. White background, clean polished academic illustration, restrained blue/teal palette except requested heatmap colors. No text, no labels, no numbers, no watermark. Landscape 16:9 composition, ideally 1024×576 or another 16:9 size. One standalone illustration, not a collage of separate panels."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+ Begin Jekyll SEO tag v2.8.0 
+
+----- COMMENT -----
+
+ End Jekyll SEO tag 
+
+----- COMMENT -----
+
+[if lt IE 9]>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+   <![endif]
+
+----- COMMENT -----
+
+          <p class="view"><a href="https://github.com/jasmineyliang" style="font-size: 11px"> GitHub </a></p> 
+
+----- COMMENT -----
+
+                <li><a href="#HOME">HOME</a></li>
+               <li><a href="#BIO">BIO</a></li> 
+
+----- COMMENT -----
+
+                     <ul class="dropdown">
+                    <li><a href="/projects/skill-based/">Skill-Based Projects</a></li>
+                    <li><a href="/projects/research/">Research Projects</a></li>
+                    <li><a href="/projects/job-oriented/">Job-Oriented Projects</a></li>
+                     </ul>
+                      </li> 
+
+----- COMMENT -----
+
+          
+         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> 

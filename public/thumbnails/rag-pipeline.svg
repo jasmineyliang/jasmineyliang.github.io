@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 270" width="480" height="270">
+  <rect width="480" height="270" fill="#f8f9fa"/>
+
+  <!-- Title -->
+  <text x="240" y="22" text-anchor="middle" font-family="system-ui" font-size="9" font-weight="700" fill="#0a6b65" letter-spacing="0.08em">RAG PIPELINE</text>
+
+  <!-- Step 1: Docs -->
+  <rect x="16" y="38" width="64" height="76" rx="5" fill="white" stroke="#e5e7eb" stroke-width="1.2"/>
+  <!-- doc stack -->
+  <rect x="24" y="46" width="38" height="48" rx="2" fill="#f0fdf4" stroke="#0a6b65" stroke-width="1"/>
+  <rect x="28" y="50" width="38" height="48" rx="2" fill="white" stroke="#d1d5db" stroke-width="1"/>
+  <rect x="32" y="54" width="38" height="48" rx="2" fill="white" stroke="#d1d5db" stroke-width="1.2"/>
+  <line x1="37" y1="63" x2="64" y2="63" stroke="#d1d5db" stroke-width="1"/>
+  <line x1="37" y1="69" x2="64" y2="69" stroke="#d1d5db" stroke-width="1"/>
+  <line x1="37" y1="75" x2="58" y2="75" stroke="#d1d5db" stroke-width="1"/>
+  <text x="48" y="122" text-anchor="middle" font-family="system-ui" font-size="8" fill="#374151" font-weight="600">Docs</text>
+
+  <!-- Arrow -->
+  <line x1="82" y1="76" x2="98" y2="76" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- Step 2: Chunk -->
+  <rect x="100" y="38" width="64" height="76" rx="5" fill="white" stroke="#e5e7eb" stroke-width="1.2"/>
+  <rect x="108" y="50" width="16" height="10" rx="2" fill="#0a6b65" opacity="0.8"/>
+  <rect x="108" y="64" width="16" height="10" rx="2" fill="#0a6b65" opacity="0.6"/>
+  <rect x="108" y="78" width="16" height="10" rx="2" fill="#0a6b65" opacity="0.4"/>
+  <rect x="128" y="50" width="28" height="10" rx="2" fill="#e2e8f0"/>
+  <rect x="128" y="64" width="22" height="10" rx="2" fill="#e2e8f0"/>
+  <rect x="128" y="78" width="25" height="10" rx="2" fill="#e2e8f0"/>
+  <text x="132" y="122" text-anchor="middle" font-family="system-ui" font-size="8" fill="#374151" font-weight="600">Chunk</text>
+
+  <!-- Arrow -->
+  <line x1="166" y1="76" x2="182" y2="76" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- Step 3: Embed -->
+  <rect x="184" y="38" width="64" height="76" rx="5" fill="white" stroke="#e5e7eb" stroke-width="1.2"/>
+  <text x="216" y="62" text-anchor="middle" font-family="system-ui" font-size="8.5" fill="#0a6b65" font-weight="700">[0.82</text>
+  <text x="216" y="73" text-anchor="middle" font-family="system-ui" font-size="8.5" fill="#0a6b65" font-weight="700"> 0.14</text>
+  <text x="216" y="84" text-anchor="middle" font-family="system-ui" font-size="8.5" fill="#0a6b65" font-weight="700">-0.56</text>
+  <text x="216" y="95" text-anchor="middle" font-family="system-ui" font-size="8.5" fill="#0a6b65" font-weight="700"> 0.37]</text>
+  <text x="216" y="122" text-anchor="middle" font-family="system-ui" font-size="8" fill="#374151" font-weight="600">Embed</text>
+
+  <!-- Arrow -->
+  <line x1="250" y1="76" x2="266" y2="76" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- Step 4: Vector DB -->
+  <rect x="268" y="38" width="64" height="76" rx="5" fill="white" stroke="#e5e7eb" stroke-width="1.2"/>
+  <!-- cylinder -->
+  <ellipse cx="300" cy="58" rx="22" ry="7" fill="#e0f2f1" stroke="#0a6b65" stroke-width="1.2"/>
+  <rect x="278" y="58" width="44" height="28" fill="#e0f2f1" stroke="#0a6b65" stroke-width="1.2" stroke-top="none"/>
+  <ellipse cx="300" cy="86" rx="22" ry="7" fill="#b2dfdb" stroke="#0a6b65" stroke-width="1.2"/>
+  <line x1="278" y1="66" x2="322" y2="66" stroke="#0a6b65" stroke-width="0.8" stroke-dasharray="2,2"/>
+  <line x1="278" y1="74" x2="322" y2="74" stroke="#0a6b65" stroke-width="0.8" stroke-dasharray="2,2"/>
+  <text x="300" y="122" text-anchor="middle" font-family="system-ui" font-size="8" fill="#374151" font-weight="600">Vector DB</text>
+
+  <!-- Query box at bottom -->
+  <rect x="16" y="148" width="316" height="28" rx="5" fill="white" stroke="#374151" stroke-width="1.2"/>
+  <text x="24" y="167" font-family="system-ui" font-size="9" fill="#6b7280">Query:</text>
+  <text x="58" y="167" font-family="system-ui" font-size="9" fill="#374151" font-style="italic">"What does the document say about..."</text>
+
+  <!-- Retrieval arrow up from VDB -->
+  <line x1="300" y1="148" x2="300" y2="118" stroke="#0a6b65" stroke-width="1.5" stroke-dasharray="3,2" marker-end="url(#arrteal)"/>
+
+  <!-- Arrow right to LLM -->
+  <line x1="334" y1="162" x2="358" y2="162" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- LLM box -->
+  <rect x="360" y="38" width="104" height="152" rx="6" fill="white" stroke="#374151" stroke-width="1.5"/>
+  <text x="412" y="57" text-anchor="middle" font-family="system-ui" font-size="9" font-weight="700" fill="#1e293b">LLM</text>
+  <!-- neural net mini -->
+  <circle cx="380" cy="80" r="4" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+  <circle cx="380" cy="96" r="4" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+  <circle cx="380" cy="112" r="4" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+  <circle cx="400" cy="72" r="4" fill="#b2dfdb" stroke="#0a6b65" stroke-width="1"/>
+  <circle cx="400" cy="88" r="4" fill="#b2dfdb" stroke="#0a6b65" stroke-width="1"/>
+  <circle cx="400" cy="104" r="4" fill="#b2dfdb" stroke="#0a6b65" stroke-width="1"/>
+  <circle cx="400" cy="120" r="4" fill="#b2dfdb" stroke="#0a6b65" stroke-width="1"/>
+  <circle cx="420" cy="80" r="4" fill="#0a6b65" stroke="#0a6b65" stroke-width="1"/>
+  <circle cx="420" cy="96" r="4" fill="#0a6b65" stroke="#0a6b65" stroke-width="1"/>
+  <circle cx="420" cy="112" r="4" fill="#0a6b65" stroke="#0a6b65" stroke-width="1"/>
+  <!-- connections -->
+  <line x1="384" y1="80" x2="396" y2="72" stroke="#d1d5db" stroke-width="0.8"/>
+  <line x1="384" y1="80" x2="396" y2="88" stroke="#d1d5db" stroke-width="0.8"/>
+  <line x1="384" y1="96" x2="396" y2="88" stroke="#d1d5db" stroke-width="0.8"/>
+  <line x1="384" y1="96" x2="396" y2="104" stroke="#d1d5db" stroke-width="0.8"/>
+  <line x1="384" y1="112" x2="396" y2="104" stroke="#d1d5db" stroke-width="0.8"/>
+  <line x1="384" y1="112" x2="396" y2="120" stroke="#d1d5db" stroke-width="0.8"/>
+  <line x1="404" y1="72" x2="416" y2="80" stroke="#94a3b8" stroke-width="0.8"/>
+  <line x1="404" y1="88" x2="416" y2="80" stroke="#94a3b8" stroke-width="0.8"/>
+  <line x1="404" y1="88" x2="416" y2="96" stroke="#94a3b8" stroke-width="0.8"/>
+  <line x1="404" y1="104" x2="416" y2="96" stroke="#94a3b8" stroke-width="0.8"/>
+  <line x1="404" y1="120" x2="416" y2="112" stroke="#94a3b8" stroke-width="0.8"/>
+  <!-- Answer badge -->
+  <rect x="368" y="140" width="88" height="36" rx="4" fill="#f0fdf4" stroke="#0a6b65" stroke-width="1"/>
+  <text x="412" y="156" text-anchor="middle" font-family="system-ui" font-size="7.5" fill="#166534" font-weight="600">Generated Answer</text>
+  <text x="412" y="168" text-anchor="middle" font-family="system-ui" font-size="7" fill="#6b7280">context-grounded</text>
+
+  <defs>
+    <marker id="arr" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+      <polygon points="0 0, 6 3, 0 6" fill="#94a3b8"/>
+    </marker>
+    <marker id="arrteal" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+      <polygon points="0 0, 6 3, 0 6" fill="#0a6b65"/>
+    </marker>
+  </defs>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 168" width="240" height="168">
+  <rect width="240" height="168" fill="#f8f9fa"/>
+  <!-- Neural network nodes -->
+  <!-- Input layer -->
+  <circle cx="30" cy="50" r="8" fill="#e5e7eb" stroke="#9ca3af" stroke-width="1.5"/>
+  <circle cx="30" cy="84" r="8" fill="#e5e7eb" stroke="#9ca3af" stroke-width="1.5"/>
+  <circle cx="30" cy="118" r="8" fill="#e5e7eb" stroke="#9ca3af" stroke-width="1.5"/>
+  <!-- Hidden layer 1 -->
+  <circle cx="85" cy="40" r="8" fill="#dbeafe" stroke="#93c5fd" stroke-width="1.5"/>
+  <circle cx="85" cy="67" r="8" fill="#dbeafe" stroke="#93c5fd" stroke-width="1.5"/>
+  <circle cx="85" cy="94" r="8" fill="#dbeafe" stroke="#93c5fd" stroke-width="1.5"/>
+  <circle cx="85" cy="121" r="8" fill="#dbeafe" stroke="#93c5fd" stroke-width="1.5"/>
+  <!-- Hidden layer 2 -->
+  <circle cx="140" cy="50" r="8" fill="#0a6b65" stroke="#047857" stroke-width="1.5"/>
+  <circle cx="140" cy="84" r="8" fill="#0a6b65" stroke="#047857" stroke-width="1.5"/>
+  <circle cx="140" cy="118" r="8" fill="#0a6b65" stroke="#047857" stroke-width="1.5"/>
+  <!-- Output -->
+  <circle cx="195" cy="84" r="9" fill="#1e293b" stroke="#374151" stroke-width="1.5"/>
+  <!-- Connections input→h1 -->
+  <line x1="38" y1="50" x2="77" y2="40" stroke="#d1d5db" stroke-width="0.8"/>
+  <line x1="38" y1="50" x2="77" y2="67" stroke="#d1d5db" stroke-width="0.8"/>
+  <line x1="38" y1="84" x2="77" y2="67" stroke="#d1d5db" stroke-width="0.8"/>
+  <line x1="38" y1="84" x2="77" y2="94" stroke="#d1d5db" stroke-width="0.8"/>
+  <line x1="38" y1="118" x2="77" y2="94" stroke="#d1d5db" stroke-width="0.8"/>
+  <line x1="38" y1="118" x2="77" y2="121" stroke="#d1d5db" stroke-width="0.8"/>
+  <!-- h1→h2 -->
+  <line x1="93" y1="40" x2="132" y2="50" stroke="#bfdbfe" stroke-width="0.8"/>
+  <line x1="93" y1="67" x2="132" y2="50" stroke="#bfdbfe" stroke-width="0.8"/>
+  <line x1="93" y1="67" x2="132" y2="84" stroke="#bfdbfe" stroke-width="0.8"/>
+  <line x1="93" y1="94" x2="132" y2="84" stroke="#bfdbfe" stroke-width="0.8"/>
+  <line x1="93" y1="94" x2="132" y2="118" stroke="#bfdbfe" stroke-width="0.8"/>
+  <line x1="93" y1="121" x2="132" y2="118" stroke="#bfdbfe" stroke-width="0.8"/>
+  <!-- h2→output -->
+  <line x1="148" y1="50" x2="186" y2="84" stroke="#6ee7b7" stroke-width="1"/>
+  <line x1="148" y1="84" x2="186" y2="84" stroke="#6ee7b7" stroke-width="1"/>
+  <line x1="148" y1="118" x2="186" y2="84" stroke="#6ee7b7" stroke-width="1"/>
+  <!-- Phonon wave at bottom -->
+  <path d="M20 148 Q40 138 60 148 Q80 158 100 148 Q120 138 140 148 Q160 158 180 148 Q200 138 220 148" fill="none" stroke="#0a6b65" stroke-width="2"/>
+  <text x="120" y="165" text-anchor="middle" font-family="system-ui" font-size="8" fill="#6b7280">Phonon Transport</text>
+  <!-- PINN label -->
+  <text x="30" y="15" font-family="system-ui" font-size="9" font-weight="700" fill="#1e293b">PINN</text>
+  <text x="66" y="15" font-family="system-ui" font-size="9" fill="#6b7280">· Boltzmann Transport Eq.</text>
+</svg>
