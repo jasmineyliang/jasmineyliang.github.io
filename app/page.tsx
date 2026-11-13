@@ -1,4 +1,5 @@
 import { CollectionContent } from './portfolio-collection';
+import GenerativeSection from '../components/GenerativeSection';
 
 const Arr = () => <span aria-hidden>↗</span>;
 
@@ -324,6 +325,7 @@ export default function Home() {
           <div className="nav-links">
             <a href="#about">About</a>
             <a href="#work">Work</a>
+            <a href="#generative">Generative</a>
             <a href="#publications">Publications</a>
             <a href="#honors">Honors & Leadership</a>
             <div className="nav-dropdown">
@@ -480,6 +482,9 @@ export default function Home() {
             );
           })}
         </section>
+
+        {/* ── Generative Models ── */}
+        <GenerativeSection />
 
         {/* ── Publications ── */}
         <section className="section wrap" id="publications">
