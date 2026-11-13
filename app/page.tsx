@@ -1,5 +1,6 @@
 import { CollectionContent } from './portfolio-collection';
 import GenerativeSection from '../components/GenerativeSection';
+import HeroLabel from '../components/HeroLabel';
 
 const Arr = () => <span aria-hidden>↗</span>;
 
@@ -353,9 +354,7 @@ export default function Home() {
         <section className="hero wrap">
           <div className="hero-layout">
             <div className="hero-text">
-              <p className="hero-label">
-                Applied Research · Physical AI · Agentic AI
-              </p>
+              <HeroLabel />
               <h1>
                 Jasmine Liang<span className="hero-phd">, PhD</span>
               </h1>
