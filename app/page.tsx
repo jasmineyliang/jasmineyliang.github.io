@@ -81,7 +81,7 @@ const PROJECTS: Project[] = [
     venue: 'AAAI 2024 Spring Symposium on Clinical Foundation Models',
     teaser: '',
     description: '',
-    image: 'https://jasmineyliang.github.io/images/Screenshot%201.png?raw=true',
+    image: 'https://raw.githubusercontent.com/jasmineyliang/jasmineyliang.github.io/master/images/Screenshot%201.png',
     stack: ['Python', 'PyTorch', 'LSTM', 'IMU', 'XAI'],
     link: 'https://openreview.net/pdf?id=lWsDWnre2l',
     linkLabel: 'View paper',
@@ -94,7 +94,7 @@ const PROJECTS: Project[] = [
     venue: 'Computer Vision · Sports Analytics',
     teaser: '',
     description: '',
-    image: 'https://jasmineyliang.github.io/images/pose1.png?raw=true',
+    image: 'https://raw.githubusercontent.com/jasmineyliang/jasmineyliang.github.io/master/images/pose1.png',
     stack: ['Python', 'OpenPose', 'OpenCV', 'Caffe', 'sklearn'],
     link: 'https://github.com/jasmineyliang/pose_estimation/blob/main/575_final.pdf',
     linkLabel: 'View presentation',
@@ -122,7 +122,7 @@ const PROJECTS: Project[] = [
     venue: 'Applied ML · Anomaly Detection',
     teaser: '',
     description: '',
-    image: 'https://jasmineyliang.github.io/images/server2.png?raw=true',
+    image: 'https://raw.githubusercontent.com/jasmineyliang/jasmineyliang.github.io/master/images/server2.png',
     stack: ['Python', 'MATLAB', 'sklearn', 'Multivariate Gaussian'],
     link: 'https://github.com/jasmineyliang/recommendation_system',
     linkLabel: 'View code',
@@ -136,7 +136,7 @@ const PROJECTS: Project[] = [
     venue: 'Applied ML · Recommender Systems',
     teaser: '',
     description: '',
-    image: 'https://jasmineyliang.github.io/images/RS1.png?raw=true',
+    image: 'https://raw.githubusercontent.com/jasmineyliang/jasmineyliang.github.io/master/images/RS1.png',
     stack: ['Python', 'MATLAB', 'sklearn', 'Collaborative Filtering'],
     link: 'https://github.com/jasmineyliang/recommendation_system',
     linkLabel: 'View code',
@@ -150,7 +150,7 @@ const PROJECTS: Project[] = [
     venue: 'AI · Game Theory',
     teaser: '',
     description: '',
-    image: 'https://jasmineyliang.github.io/images/checker1.png?raw=true',
+    image: 'https://raw.githubusercontent.com/jasmineyliang/jasmineyliang.github.io/master/images/checker1.png',
     stack: ['Java', 'JavaScript', 'MinMax', 'Alpha-Beta Pruning'],
     link: 'https://github.com/jasmineyliang/AI-checker-proj',
     linkLabel: 'View code',
@@ -164,7 +164,7 @@ const PROJECTS: Project[] = [
     venue: 'NLP · Political Data Science',
     teaser: '',
     description: '',
-    image: 'https://jasmineyliang.github.io/images/l1.png?raw=true',
+    image: 'https://raw.githubusercontent.com/jasmineyliang/jasmineyliang.github.io/master/images/l1.png',
     stack: ['Java', 'SQL', 'JDBC', 'NLP', 'Sentiment Analysis'],
     link: 'https://github.com/jasmineyliang/state-legislator-tweets-election-years-proj',
     linkLabel: 'View code',
@@ -178,7 +178,7 @@ const PROJECTS: Project[] = [
     venue: 'Computational Biology · Dimensionality Reduction',
     teaser: '',
     description: '',
-    image: 'https://jasmineyliang.github.io/images/g1.jpg?raw=true',
+    image: 'https://raw.githubusercontent.com/jasmineyliang/jasmineyliang.github.io/master/images/g1.jpg',
     stack: ['R', 'GENIE3', 't-SNE', 'UMAP', 'PCA'],
     link: 'https://github.com/jasmineyliang/multi-omics-analysis-of-metabolic-genes-perturbations-in-saccharomyces-cerevisiae',
     linkLabel: 'View code',
@@ -221,7 +221,7 @@ const PAPERS = [
       'Striding into Clarity: Wearable Sensor-Driven Estimation of Knee Adduction Moment, Unveiling the Black Box with Sequence-Based Neural Networks and Explainable AI',
     authors: 'JY Liang, H Bian, W Zhang, CK Chang, LS Chou',
     link: 'https://openreview.net/pdf?id=lWsDWnre2l',
-    image: 'https://jasmineyliang.github.io/images/Screenshot%201.png?raw=true',
+    image: 'https://raw.githubusercontent.com/jasmineyliang/jasmineyliang.github.io/master/images/Screenshot%201.png',
   },
   {
     year: '2024',
@@ -230,7 +230,7 @@ const PAPERS = [
       'Center of Mass Acceleration During Walking: Comparison Between IMU and Camera-Based Motion Capture Methodologies',
     authors: 'JY Liang & LS Chou',
     link: 'https://www.cambridge.org/core/journals/wearable-technologies/article/center-of-mass-acceleration-during-walking-comparison-between-imu-and-camerabased-motion-capture-methodologies/EE637BCC2EE3335D02A3600F05FFBF28',
-    image: 'https://jasmineyliang.github.io/images/p2.png?raw=true',
+    image: 'https://raw.githubusercontent.com/jasmineyliang/jasmineyliang.github.io/master/images/p2.png',
   },
   {
     year: '2023',
@@ -239,7 +239,7 @@ const PAPERS = [
       'Assessment of Gait Balance Control Using Inertial Measurement Units — A Narrative Review',
     authors: 'JY Liang & LS Chou',
     link: 'https://www.worldscientific.com/doi/abs/10.1142/S2810958923300068',
-    image: 'https://jasmineyliang.github.io/images/r1.jpeg?raw=true',
+    image: 'https://raw.githubusercontent.com/jasmineyliang/jasmineyliang.github.io/master/images/r1.jpeg',
   },
   {
     year: '2023',
@@ -247,7 +247,7 @@ const PAPERS = [
     title: 'Estimation of STEADI Performance Using Inertial Measurement Unit',
     authors: 'JY Liang, M Zhang, N Lamoureux, J Lansing, LS Chou, GJ Welk',
     link: 'https://www.sciencedirect.com/science/article/pii/S2950307824000286',
-    image: 'https://jasmineyliang.github.io/images/e2.jpeg?raw=true',
+    image: 'https://raw.githubusercontent.com/jasmineyliang/jasmineyliang.github.io/master/images/e2.jpeg',
   },
   {
     year: '2022',
@@ -256,7 +256,7 @@ const PAPERS = [
       'Estimation of Knee Adduction Moment During Walking Using Wearable Sensor Data With Sequence-Based Artificial Recurrent Neural Network',
     authors: 'JY Liang & LS Chou',
     link: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SnALrRkAAAAJ&sortby=pubdate&citation_for_view=SnALrRkAAAAJ:Tyk-4Ss8FVUC',
-    image: 'https://jasmineyliang.github.io/images/k1.jpeg?raw=true',
+    image: 'https://raw.githubusercontent.com/jasmineyliang/jasmineyliang.github.io/master/images/k1.jpeg',
   },
 ];
 
@@ -375,7 +375,7 @@ export default function Home() {
             </div>
             <div className="hero-photo-col">
               <img
-                src="https://jasmineyliang.github.io/images/20231007_160933496_iOS%20copy.jpg?raw=true"
+                src="https://raw.githubusercontent.com/jasmineyliang/jasmineyliang.github.io/master/images/20231007_160933496_iOS%20copy.jpg"
                 alt="Jasmine Liang"
                 className="hero-headshot"
               />
@@ -410,7 +410,7 @@ export default function Home() {
 
             <div>
               <img
-                src="https://jasmineyliang.github.io/images/20231007_160933496_iOS%20copy.jpg?raw=true"
+                src="https://raw.githubusercontent.com/jasmineyliang/jasmineyliang.github.io/master/images/20231007_160933496_iOS%20copy.jpg"
                 alt="Jasmine Liang"
                 style={{ width: 96, height: 96, borderRadius: '50%', objectFit: 'cover', objectPosition: 'center 15%', marginBottom: 28, border: '2px solid var(--border)' }}
               />
