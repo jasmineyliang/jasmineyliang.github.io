@@ -101,9 +101,12 @@ export default function GenerativeSection() {
   useEffect(() => {
     // ── FABRIK IK ──
     function startIK() {
-      const canvas = ikCanvasRef.current;
-      if (!canvas) return;
-      const ctx = canvas.getContext('2d')!;
+      const canvasEl = ikCanvasRef.current;
+      if (!canvasEl) return;
+      const canvas: HTMLCanvasElement = canvasEl;
+      const ctxOrNull = canvas.getContext('2d');
+      if (!ctxOrNull) return;
+      const ctx: CanvasRenderingContext2D = ctxOrNull;
       const N = 8, SEG = 30, IT = 15;
       const ACCENT = '#0a6b65', MUTED = '#595957', BG = '#f9f9f7', BORDER = '#e2e2e0';
       let W: number, H: number, rootX: number, rootY: number;
